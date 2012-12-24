@@ -124,7 +124,7 @@ var projs = [
 		"category":"school_teaching",
 		"text":'My favorite part about TA-ing cse190 was doing lectures about extra material. '+
 				'I`d go over all sorts of exciting web technologies such as node.js, css transforms, bootstrap and much more. '+
-				'All the materials I used is saved here.'
+				'All the materials I used are saved here.'
 	},
 	{
 		"name":"ASHAnet projects",
