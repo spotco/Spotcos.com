@@ -38,7 +38,8 @@ h2 {
 }
 </style>
 
-<h1>Vidcon Reviews</h1>
+<h1>Vidcon+Animu Reviews</h1>
+<p>I play videocons and review them quickly (10 mins max).</p>
 <hr/>
 
 <?php
