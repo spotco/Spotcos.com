@@ -1,4 +1,56 @@
 <h1>Pyscraper and game progress</h1>
 <p><i>Posted by spotco on December 24, 2012</i></p>
 <hr/>
-A couple of fun blog-worthy things recently. 
+<p>
+A couple of fun blog-worthy things recently. First, as a tangentially CSE 311 related project I made <a href="http://spotcos.com/misc/genealogy/genealogy.html">genealogy.js</a> (other considered names: math.io, math.js, genealogy.io.js, etc). It's two parts: first, a python web scraper for the <a href="http://genealogy.math.ndsu.nodak.edu/">Math Genealogy</a> website. My professor said that the site refused to give out copies of the database through email, and challenged us to scrape it ourselves. This is yet another application of the webscrapers/web proxies stuff I talk about in my <a href="http://spotcos.com/pdf/crawlers_extra_session.pdf">cse190m ta</a> extra session. Amusingly enough, I probably learn more than the students in doing those.
+</p>
+<p>
+The scraping itself isn't particularily complicated: the site is static (no js, etc), and easy css identifiers to target. The most interesting part of it was making it multithreaded (a necessary step for any web scraper). My previous "big scraping" project, <a href="http://spotcos.com/misc/scrapeplayer/scrapeplayer.swf">ScrapePlayer</a> was done in AS3. While I may have told extra-session attendees that it was multithreaded for performance, that's actually a lie. AS3 is actually single threaded with an event queue to handle dispatched events (so anyone I've said that to...I'm sorry I lied!). Python doesn't have that kind of code-simplifying property, so this was actually my first major experience in real asynchronous IO/multithreading. Luckily, it isn't as difficult as those fancy words make it sound. All I needed to do was create a subclass of thread, have a constructor take a url to visit, and keep a ``static'' queue of URLs to visit. Every thread also wrote to a static dictionarry, which was dumped to a file once the queue was empty. So, nothing seemed to break so I'll assume the collections were threadsafe. That's actually something I don't know a whole lot about (and I'm sure glad I wasn't asked any interview questions about it!).
+</p>
+<img src="content/blogimg/ddos.png" style="width:250px;float:left;margin:15px;" class="img-polaroid" />
+<p>
+One of the amusing things that happened was that if you sent requests TOO fast (something along the lines of 1 every 0.01 seconds), that would literally shut down the server. I'm talking like DB Server connection error. I was just glad I didn't get IP banned or something, so I turned on my VPN immediately after that. Luckily there were 4 mirrors of the data, so what I ended up doing was evenly distributing the requests across all the mirrors. You'd call that load balancing, right? 
+<br/>
+<br/>
+<a href="http://spotcos.com/misc/genealogy/genealogy_scraper.py">Python code to run your own DDoS attack against these poor servers</a>.
+</p>
+<p>
+Last bit was the web interface. After doing so much python I felt compelled to write in a semicolon-less style. I know Crockford up there in JS-heaven wouldn't be proud, but I'll be damned I think this is beautiful (if unnecessarily functional) js ;_;.
+<pre>
+success:function(data) {
+  $("#linfo").text("parsing links.txt...")
+  data.split("\n").filter(function(i){
+    return i.length > 0
+  }).map(function(i){
+    return JSON.parse(i)
+  }).forEach(function(i){
+    ppls[i.id] = {id:i.id,parents:i.advisors,students:i.students}
+  });
+  load_info()
+}
+</pre>
+</p>
+<p>
+And speaking of functional programming, I actually WAS asked a somewhat functional programming question in an interview. And here I am, doing an <a href="http://spotcos.com/pdf/fnoojs.pdf">extra session</a> about this kind of thing in javascript. I DO learn a lot from those!
+</p>
+<p>
+Last bit was getting the top google image search to appear under every name. At first I tried the google search api and it works well, but I hit the 100request/day or so limit pretty quick. And did you know, they charge something like <a href="https://developers.google.com/custom-search/v1/overview">100$ annually</a> minimum if you want to do more? So obviously that was out of the question. Luckily enough, I found a <a href="https://github.com/BirdAPI/Google-Search-API"> python script </a> that basically wgets the page and scrapes it to get the img src links, bypassing the need for a google API. So, that was basically my little way of sticking it to the man (please ignore this if you're a potential future employer at google!). <a href="http://spotcos.com/misc/genealogy/genealogy.html">Genealogy.js here</a>, in all its web scraping glory. 
+</p>
+<p>
+Other news, progress continues on the doggy runner game. In this last month or so implemented all sorts of features like section-based infinite scrolling mode, animation updates and android-ui like scrolling menu. That <a href="https://github.com/spotco/GOstritch/blob/master/Classes/MainMenuLayer.m">last bit (which I'm actually pretty proud of)</a> I actually implemented from only GL Camera and touch events. No, I'm not a fan of reinventing the wheel and there probably was a simpler way. Video of it in action (with some other features) here:
+<br/>
+<br/>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BRvaVMsJSzQ" frameborder="0" allowfullscreen></iframe>
+
+<br />
+<br />
+I'm actually quite happy because after several months of work this is actually starting to feel like a real game. Unfortunately, the artists that I've been working with have basically dropped out or otherwise stopped responding. I'll probably have to find an alternative or do the art myself fairly soon, and not looking forward to that. (If you guys are reading this, pls do work i luv u :))! ) 
+</p>
+
+<p>
+Last bit, for which I am inordinately proud of, my EE215 final project. It looks incredibly complicated but is just a simple 2bit adder. But I sure felt like a real engineer when making it :)
+<img src="content/blogimg/circuit.png" class="img-polaroid" style="width:450px; margin:25px;" />
+</p>
+
+<p><a href="?page=chat">leave a comment!</a></p>  
