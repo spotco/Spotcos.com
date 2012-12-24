@@ -1,0 +1,36 @@
+ <img src="content/blogimg/dogrun.gif" style="float:right;" />
+        <h1>Site redesign!</h1>
+        <div class="subheader" >Posted by spotco on September 22, 2012</div>
+        <hr />
+        <p>
+            I swear, I was literally planning to do this all summer. 
+            But, because of a variety of reasons (blame the dog game!) I didn't start until the weekend before school started.
+            My goal was to learn some new technologies while doing it...twitter bootstrap, coffeescript and less specifically. 
+            Got lazy/impatient and only did one (go to coffeescript site...you have to DOWNLOAD a compiler and COMPILE your code to run? yeah maybe later). 
+        </p>
+        <p>
+            So I just did bootstrap, but I'm pretty glad I learned it. First thing you may notice is the big bootstrappy bar up top.
+            I did my best to make it not look like stock bootstrap, but I'll be damned bootstrap does NOT make that an easy task (I mean, just look at the page source...the css is inline).
+            But past that, bootstrap really did speed up my development. Just for example, my projects page. It's just so amazing to be able make columns by going:
+            <pre>
+{this column is 8 wide} {this is 4 wide}
+{hr here}
+{3 col sect} {3 col sect} {3 col sect}</pre>
+            Doing this in ``regular'' css would be a goddamn clusterfuck of floats and margins.
+            Speaking of floats, TA-ing cse 190 again. Did I ever say floats/margins/box/css is my favorite part of the whole class?
+        </p>
+        <p>
+            So, I ended up getting all of this done in one weekend. I think it looks decent (at least compared to my old site...which is still up through that link on the right).
+        </p>
+
+        <p>
+            NOTE TO SELF: still left to do...
+            <ul>
+                <li>Make art gallery less crappy (loading animation, vertical center images)</li>
+                <li>Blog like post system in php with url fallbacks</li>
+                <li>Fill out about me page</li>
+                <li>Write more blog posts!</li>
+                <li>Add extra session+other links in projects page</li>
+            </ul>
+			<p><b>Oct 29 2012: Updated art gallery, I think everything listed here is about done! </b></p>
+        </p>

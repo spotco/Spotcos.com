@@ -1,0 +1,71 @@
+<h1>RDY 2 GAME</h1>
+<i>Posted by spotco on November 20, 2012</i>
+<hr />
+Started playing <a href="http://na.aiononline.com/">Aion</a>. Slippery slope, etc.
+<br/>
+<a href="/content/blogimg/rdy2game.jpg">
+<img src="/content/blogimg/rdy2game.jpg" class="img-polaroid" style="width:280px;margin:25px;" />
+</a>
+<br/>
+<i>DON'T DRINK LIKE SCRUB IMMA SIP N GRIP</i>
+<br/>
+<br/>
+Had time to work on side projects again after what seemed like months of being slammed by classes+hw.
+Recently my usb harddrive broke (all my anime wp's and videogame osts ;_;) so I've actually been using <a href="/misc/scrapeplayer/scrapeplayer.swf">Scrapeplayer</a> as my main music source now. It's actually been working fairly well, and a few days ago I patched up the biggest problems I've had with it. First, the mysterious delay when searching through loaded songs (which turned out to be a trivial fix, can you spot the error here?)
+<br/>
+<br/>
+<pre style="overflow:scroll;white-space:pre;">
+public function list(tar:String) {
+  var lister:Timer = new Timer(1);
+  var i:int = 0;
+  var ct:int = 0;
+  tar = tar.toLowerCase();
+  lister.addEventListener(TimerEvent.TIMER, function(e) {
+    if (i < songs.length) {
+      if (songs[i].filename.toLowerCase().indexOf(tar) != -1) {
+        dispatchEvent(new SPEvt(SPEvt.PRINT_EVT, { msg:songs[i].filename } ));
+        ct++;
+      }
+    } else {
+      dispatchEvent(new SPEvt(SPEvt.PRINT_EVT, { msg:ct + " songs total." } ));
+      lister.stop();
+    }
+    i++;
+  });
+  lister.start();
+}
+</pre>
+<br/>
+The other problem, loading/listing speed which I think I fixed in a pretty amusing way. So the timer in AS3 can only fire at most once every 20ms or so. What do you do if you want to send requests at a faster rate? Just use a loop and send multiple requests every timer tick, obviously. <b><i>QUALITY PERFORMANCE SOLUTIONS</i></b>. Type <code>LISTSPEED 20</code> in scrapeplayer to see this amazing bit of code at work.
+<br/>
+<br/>
+Finally, started work again on iOS game after a 2month+ hiatus (I felt guilty!). The <a href="/gogodoggy/editor.html">editor</a> is still a giant mess that I'm surprised still works (I mean, just look at <a href="https://github.com/spotco/GO-Stritch_Tools_GameEngine/blob/master/src/LevelEditor.as">the onmouseup function here</a>. And the double enumeration of all gameobject types <a href="https://github.com/spotco/GO-Stritch_Tools_GameEngine/blob/master/src/editorobj/GameObject.as">here</a> and <a href="https://github.com/spotco/GO-Stritch_Tools_GameEngine/blob/master/src/Common.as">here</a>. 0/1 general good style).
+<br/>
+<br/>
+Also, managed to cram even more redundant information into every level file. 
+<br/>
+<br/>
+<pre style="overflow:scroll;white-space:pre;">
+{
+    "assert_links": 8,
+    "objects": [
+        {"x": 430, "y": 53, "type": "birdflock", "label": "0"},
+        {"x": 556, "y": 155, "type": "dogbone", "bid": 1, "label": "BID:1"}
+    ],
+    "start_x": 0,
+    "connect_pts": {"x2": 1347, "x1": 40, "y2": 512, "y1": 52},
+    "start_y": 0,
+    "islands": [
+        {"can_fall": true, "ground": "open", "y1": 52, "hei": 50, "x2": 352, "x1": 40, "y2": 50, "type": "line", "ndir": "left"},
+        {"can_fall": true, "ground": "open", "y1": 50, "hei": 50, "x2": 491, "x1": 352, "y2": 53, "type": "line", "ndir": "left"}
+    ]
+}
+</pre>
+<br/>
+This does not make for a pretty json input and json output method. 
+All this new stuff was for automatic level-generation and repeating, which I managed to get (generally) working in one afternoon. Video:
+<br/>
+<br/>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/HrmJbr3pLGY" frameborder="0" allowfullscreen></iframe>
+<br/>
+<p><a href="?page=chat">leave a comment!</a></p> 

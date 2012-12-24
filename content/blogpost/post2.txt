@@ -1,0 +1,59 @@
+<h1>Hackathon and Typescript 2hu</h1>
+<i>Posted by spotco on October 22, 2012</i>
+<hr />
+<p><b>Update: Sometime in these last few weeks or so, Jump Goober Jump's online mode has hit over 500 levels! In celebration, <a href="/misc/goober500.zip">here's a dump on the xml level files.</a> Feel free to laugh at my level schema. Also, <a href="?page=art">updated art gallery</a>, powered by seadragon ajax. Dat zoom~!</b></p>
+</p> 
+So I redesigned the website in the weekend before school, and left it in its not-entirely finished state (blame it on homework every weekday) until now. Most of the todo's in the first post are still there, but I did implement a pretty rudimentary blogging system that can store posts/etc. It's done in all plain text files and the PHP include function, which I think is hilarously hacky.
+</p>
+<p>
+The way I have it, it's basically like <a href="https://github.com/spotco/Ruby-on-Rails-test-app/blob/master/app/views/layouts/application.html.erb">
+ruby on rails .erb</a> template files, only minus the need of a whole bloated (opinions) framework. You probably could fashion one out of this.
+</p>
+<p>
+Speaking of web frameworks, I think my recent <a href="https://github.com/spotco/ashaproject">hackathon project</a> could have definitely used one. Something about these projects leads to flat, unorganized project directories and just a spaghetti of code in general (compare this to my <a href="https://github.com/spotco/facemii">facemii project from last year</a>). A framework would have helped, but some sort of database-abstraction-orm would have been even better. We had a three-table deep database and I had to write <a href="https://github.com/spotco/ashaproject/blob/master/jsout.php"> this</a> amazing bit of PHP-ery to get a simple json output webservice. It was about as fun to write as it looks (I compared scrubbing toilets in code). Oh, and for future reference php's array_push+arrays do NOT have reference semantics.
+</p>
+<p style="overflow:hidden">
+Good news though, we were second place! We made a <a href="/ashaproj">pinterest-y projects page</a> for the nonprofit <a href="ashanet.org">asha</a>. Being a ``webapp''-tastic, we used bootstrap (just like everyone else competing, hence google's 24 hours of bootstrap). It turned out nice, but more importantly I have two gym bags now one from google and one from yahoo. Which to use?
+<br />
+<br/>
+<a href="/content/blogimg/bags.jpg">
+<img src="/content/blogimg/bags.jpg" class="img-polaroid" style="width:280px;float:left;margin:10px;" />
+</a>
+<a href="/ashaproj">
+<img src="/content/blogimg/ashaproj.png" class="img-polaroid" style="width:280px;float:left;margin:10px;" />
+</a>
+<br />
+</p>
+<p>
+Last bit, and this could probably be another post in itself (and may be in the future). For some reason, I was convinced into making a bullet hell shooter game in javascript. Since I was doing this, I decided, I might as well learn something new. So, that's how I got started doing Typescript.
+</p>
+<p>
+You may have read all the pessimistic blogs, or have some personal vendetta against Microsoft, but screw all the haters <b><i>TYPESCRIPT IS EVERYTHING THAT I HAVE EVER WANTED AND HOPED FOR</i></b>. Syntatically and structurally, it's a lot like actionscript3 (something very near and dear to my heart). You can have classes, interfaces, java-like inheritance while at the same time the function-closures and loosey-gooseyness of regular javascript.
+</p>
+<p>
+But besides that, two really big things for me here. First, I can finally write javascript in a full auto-completing IDE (visual studio). Sublime text is good, but it can't show methods and display documentation like this can. I can't say how long I've been waiting for this day ;_;. And second, I can write typescript in multiple files and the compiler will compile it into one single output js.
+</p>
+<pre>
+tsc app.ts -out app.js
+</pre>
+<p>
+This shit'll go through your imports and automatically order the generated code in the output json so that all the dependencies are satisfied. Last thing: optional typing. It's the best of two worlds, what's not to like? So if you're out there reading this, I recommend that you go out and try <a href="http://www.typescriptlang.org/">Typescript</a> on your next big(500 line+) javascript/web project. Not paid for that at all.
+</p>
+<p style="overflow:hidden;">
+Finally, about the game itself, I followed my generic GameEngine with displaylist-array, base GameObject -> GameEnemy subclass pattern. The canvas api is pretty verbose, so I wrote some nice ts object-oriented wrappers. I was thinking that the source could be some sort of ts-based game framework, though I have no idea who would be interested in that.
+<br/>
+<br/>
+<a href="/tshooter">
+<img src="/content/blogimg/tshooter.png" class="img-polaroid" style="width:280px;float:left;margin:10px;" />
+</a>
+<a href="/content/blogimg/ide.png">
+<img src="/content/blogimg/ide.png" class="img-polaroid" style="width:280px;float:left;margin:10px;" />
+</a>
+</p>
+
+<p>
+Source is <a href="https://github.com/spotco/TShooter">here</a> and game is <a href="/tshooter">here</a>.
+</p>
+<br/>
+<br/>
+<p><a href="?page=chat">leave a comment!</a></p>

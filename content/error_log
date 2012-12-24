@@ -1,0 +1,5 @@
+[08-Nov-2012 13:22:25] PHP Warning:  file_get_contents(content/posts.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/spotco/public_html/content/home.php on line 11
+[08-Nov-2012 13:22:25] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/spotco/public_html/content/home.php on line 22
+[08-Nov-2012 13:22:25] PHP Warning:  Invalid argument supplied for foreach() in /home/spotco/public_html/content/home.php on line 31
+[08-Nov-2012 13:22:25] PHP Warning:  file_get_contents(content/links.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/spotco/public_html/content/home.php on line 40
+[08-Nov-2012 13:22:25] PHP Warning:  Invalid argument supplied for foreach() in /home/spotco/public_html/content/home.php on line 41
