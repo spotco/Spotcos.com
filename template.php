@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link href="http://www.spotcos.com/favicon.png" type="image/png" rel="shortcut icon" />      
+<link href="favicon.png" type="image/png" rel="shortcut icon" />      
 <title>spotcos.com</title>
-<!-- Bootstrap -->
-<link href="http://www.spotcos.com/mainpageassets/favicon.png" type="image/png" rel="shortcut icon" />
 <link href='http://fonts.googleapis.com/css?family=Comfortaa|Lora' rel='stylesheet' type='text/css'>
-<script src="http://www.spotcos.com/jquery.js"></script>
-<link href="http://www.spotcos.com/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<script src="http://www.spotcos.com/bootstrap/js/bootstrap.min.js"></script>
+<script src="jquery.js"></script>
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
 <style>
 body {
     padding-top: 40px;
@@ -84,7 +82,7 @@ hr {
             <div class="nav-collapse">
             <ul class="nav">
                 <?php
-                    foreach (array("home","projects","art","about","chat") as $key => $value) {
+                    foreach (array("home","projects","art","reviews","about","chat") as $key => $value) {
                         ?><li class="navbar_icon <?= $value == $page ? "current":"" ?>"><a href="?page=<?=$value?>"><?=$value?></a></li><?php
                     }
                 ?>

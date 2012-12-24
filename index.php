@@ -3,7 +3,7 @@
         $_GET["page"] = "home";
     }
 
-    $valid_pages = array("home","projects","art","about","chat");
+    $valid_pages = array("home","projects","art","about","chat","reviews");
     if (!in_array($_GET["page"],$valid_pages)) {
         $_GET["page"] = "404";
     }
