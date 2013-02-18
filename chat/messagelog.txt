@@ -168,3 +168,11 @@
 (11-20 3:42)test|?|lol
 (11-30 9:43)lol|?|hank sucks
 (12-24 6:21)sad|?|test
+(01-03 10:40)|?|ok, let me test this before steal it
+(01-11 7:42)hackerperson|?|&lt;script&gt;alert('Hello')&lt;/script&gt;
+(01-11 7:44)|?|&lt;/textarea&gt;dfgdfgdfg
+(01-11 7:45)|?|&quot;&lt;/textarea&gt;
+(01-11 7:45)|?|retetdfg
+(01-11 7:47)|?|&quot;&quot;&quot;&lt;/textarea&gt;lorum ipsum&quot;
+(01-14 3:27)|?|nice try
+(02-03 8:00)Your mother|?|Don't be a dick and try to hack this
