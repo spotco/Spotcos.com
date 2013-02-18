@@ -34,11 +34,11 @@
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Muramasa: Demon Blade</dd>
+			<dd>Opoona</dd>
 			<dt>Currently listening to:</dt>
-			<dd>Kingdom Hearts OST</dd>
+			<dd>OCRemix</dd>
 			<dt>Currently learning:</dt>
-			<dd></dd>
+			<dd>matlab</dd>
 		</dl>
 	</div>
 </div>
