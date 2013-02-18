@@ -40,6 +40,7 @@ h2 {
 
 <h1>Videogame+Anime Reviews</h1>
 <p>I play vidcons and review them quickly (~10mins).</p>
+<p>(Btw, best way to listen to a OST is to <code>load *URL*</code> in <a href="http://spotcos.com/misc/scrapeplayer/scrapeplayer.swf">scrapeplayer</a>)
 <hr/>
 
 <?php
