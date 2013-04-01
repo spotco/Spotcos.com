@@ -1,4 +1,17 @@
-[{
+[
+{
+	"title":"Opoona",
+	"boximg":"opoona_box.png",
+	"iconimg":"opoona_icon.png",
+	"rating":3,
+	"ratingdesc":"children's games",
+	"paragraphs":[
+		"Randomly got linked to a <a href='http://www.youtube.com/watch?v=NXr5V6umW6U'>youtube video</a> of the game music and ordered the game from amazon immediately afterwards. It's a decent lighthearted JRPG (think mother3 with worse translation) with a decent final fantasy-ATB like combat system, but a plot that doesn't really get particularily interesting. It gets challenging-to-fun at a few points, but was generally a pretty mindless ``Spam A to attack'' deal.",
+		"Special mention must go out to the city design (and this is something new). So most of the towns are domes, which are sprawling multi-floor complexes of fairly similar looking rooms. First, there's no useable minimap. Second, you have towers with multiple floors. In this game, there's no sort of ``choose your floor'' kind of elevator. Every single time you need to start at the bottom and work your way up several floors to get to your destination. That, combined with sidequests that are basically 1. Talk to person on floor 8, 2. sleep for a day on floor 1, 3. repeat led to a lot of frustration. But then again, what can you really expect from JRPG sidequests?",
+		"Last bit, the <a href='http://spotcos.com/misc/music/opoona/'>soundtrack</a>. It's almost too good for the game (kinda like Nier). It was really great. I'd probably have given it a 2/5 or less if I wasn't constantly mesmerized by the music. It's a Sakamoto (along with the rest of Basiscape) masterpiece ;_;. And they really love their clarinets."
+	]
+},
+{
 	"title":"Evangelion Rebuild 3.0",
 	"boximg":"eva3_box.png",
 	"iconimg":"eva3_icon.png",
