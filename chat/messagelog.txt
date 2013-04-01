@@ -176,3 +176,9 @@
 (01-11 7:47)|?|&quot;&quot;&quot;&lt;/textarea&gt;lorum ipsum&quot;
 (01-14 3:27)|?|nice try
 (02-03 8:00)Your mother|?|Don't be a dick and try to hack this
+(03-06 11:55)12X|?|thanks for help on Physics.
+(03-07 12:02)12X|?|To bad webassign can't figure gamma right
+(03-08 12:00)np|?|good luck on midterm/final :)
+(03-19 9:22)|?|A steel rod hangs vertically from a fixed support. The rod is 1.2 long and 1.1 in diameter.What mass hung from the rod will stretch it by 0.22 ?
+(03-19 9:22)|?|help please
+(03-20 1:54)|?|need spring coef

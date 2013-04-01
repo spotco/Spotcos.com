@@ -92,9 +92,6 @@ hr {
                 <a href="mailto:mootothemax@gmail.com">
                     <img src="assets/gmail.png" style="height:40px;width:40px;" />
                 </a>
-                <a href="http://facebook.com/spotcosy">
-                    <img src="assets/facebook.png" style="height:40px;width:40px;" />
-                </a>
                 <a href="http://github.com/spotco">
                     <img src="assets/github.png" style="height:40px;width:40px;" />
                 </a>
