@@ -25,6 +25,16 @@
 <script>
 var projs = [
 	{
+		"name":"SHOOT2KILL",
+		"button":"shoot2kill_button.png",
+		"banner":"shoot2kill_banner.png",
+		"link":"http://54.245.123.189/shoot2kill/client/3dclient.html",
+		"category":"hackathon",
+		"text":'Entry for 2013 Facebook PNW Hackathon. We won (GOING TO CALI BABY). Online 3d FPS using webgl and node.js/socket.io.<br/><br/>'+
+		"<a href='https://github.com/spotco/shoot2kill'>Fork my dongle</a>"
+
+	},
+	{
 		"name":"Doggy Runner",
 		"button":"runner_button.png",
 		"banner":"runner_banner.png",
@@ -112,8 +122,8 @@ var projs = [
 		"banner":"scrape_banner.png",
 		"link":"/misc/scrapeplayer/scrapeplayer.swf",
 		"category":"misc",
-		"text":'So I had a great idea as I was grading finals (and listening to turntable.fm). What if I streamed my own music from my own webserver? '+
-				'So I made this, a web crawler and music streamer in flash. The "command-line" gui is pretty shitty, so it\'s basically something that only I can(or want) use.<br/><br/>'+
+		"text":'Web scraper and music streamer (think pandora that streams for any http web server).<br/>'+
+				'It\'s also a lisp-dialect interpreter. <br/>Try this: <code>par (let a 5) (print a)</code><br/>' +
 				'<a href="https://github.com/spotco/ScrapePlayer">source here</a>'
 	},
 	{
