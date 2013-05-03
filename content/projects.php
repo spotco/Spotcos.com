@@ -117,14 +117,14 @@ var projs = [
 				'<a href="https://github.com/spotco/Jump-Die-Create-2">source here</a>'
 	},
 	{
-		"name":"ScrapePlayer",
+		"name":"ScrapePlayer2.0",
 		"button":"scrape_button.png",
 		"banner":"scrape_banner.png",
-		"link":"/misc/scrapeplayer/scrapeplayer.swf",
+		"link":"/misc/scrapeplayer/ScrapePlayer2.swf",
 		"category":"misc",
 		"text":'Web scraper and music streamer (think pandora that streams for any http web server).<br/>'+
-				'It\'s also a lisp-dialect interpreter. <br/>Try this: <code>par (let a 5) (print a)</code><br/>' +
-				'<a href="https://github.com/spotco/ScrapePlayer">source here</a>'
+				'Scriptable with a pseudo-lisp dialect. Interpreters are magic.<br/>' +
+				'<a href="https://github.com/spotco/ScrapePlayer">source and documentation here</a>'
 	},
 	{
 		"name":"CSE 190m Extras",
