@@ -35,7 +35,7 @@ var projs = [
 
 	},
 	{
-		"name":"Doggy Runner",
+		"name":"Speedy Pups",
 		"button":"runner_button.png",
 		"banner":"runner_banner.png",
 		"link":"https://github.com/spotco/GOstritch",
@@ -44,7 +44,9 @@ var projs = [
 				'I bought a mac mini just for this.'+
 				'It was also greatly influenced by Rayman Origins (which I happened to be playing...this was originally supposed to be a much simpler game!).<br/><br/>'+
 				'Video(s):<br/>'+
-				'<a href="http://www.youtube.com/watch?v=HrmJbr3pLGY">Nov 2012</a><br/>'
+				'<a href="http://www.youtube.com/watch?v=HrmJbr3pLGY">Nov 2012</a><br/>'+
+				'<a href="https://www.youtube.com/watch?v=SMFijfINWd8">Mar 2013</a><br/>'+
+				'<a href="https://www.youtube.com/watch?v=tqvUtsHpmrw">May 2013</a><br/>'
 	},
 	{
 		"name":"CampusView3D",
@@ -108,19 +110,10 @@ var projs = [
 				'<a href="https://github.com/spotco/FaceMii">source here</a>'
 	},
 	{
-		"name":"JGJ2",
-		"button":"jgj2_button.png",
-		"banner":"jgj2_banner.png",
-		"link":"http://spotcos.com/misc/JGJ2.swf",
-		"category":"games",
-		"text":'2d platformer tech demo with box2d and flixel. And let me tell you, that isn\'t a pretty stack. \'O\' to change character, \'P\' to reverse gravity. '+
-				'<a href="https://github.com/spotco/Jump-Die-Create-2">source here</a>'
-	},
-	{
 		"name":"ScrapePlayer2.0",
 		"button":"scrape_button.png",
 		"banner":"scrape_banner.png",
-		"link":"/misc/scrapeplayer/ScrapePlayer2.swf",
+		"link":"http://spotcos.com/misc/scrapeplayer/",
 		"category":"misc",
 		"text":'Web scraper and music streamer (think pandora that streams for any http web server).<br/>'+
 				'Scriptable with a pseudo-lisp dialect. Interpreters are magic.<br/>' +
@@ -137,7 +130,7 @@ var projs = [
 				'All the materials I used are saved here.'
 	},
 	{
-		"name":"ASHAnet projects",
+		"name":"ASHAnet projects page",
 		"button":"ashaproj_button.png",
 		"banner":"ashaproj_banner.png",
 		"link":"/ashaproj",
