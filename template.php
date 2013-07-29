@@ -82,7 +82,7 @@ hr {
             <div class="nav-collapse">
             <ul class="nav">
                 <?php
-                    foreach (array("home","projects","art","about","reviews","chat") as $key => $value) {
+                    foreach (array("home","projects","art","about","chat") as $key => $value) {
                         ?><li class="navbar_icon <?= $value == $page ? "current":"" ?>"><a href="?page=<?=$value?>"><?=$value?></a></li><?php
                     }
                 ?>
