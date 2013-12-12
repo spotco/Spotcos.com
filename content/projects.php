@@ -25,6 +25,25 @@
 <script>
 var projs = [
 	{
+		"name":"ScrapePlayer DESKTOP",
+		"button":"scrapeplayerdesktop_button.png",
+		"banner":"scrapeplayerdesktop_banner.png",
+		"link":"https://github.com/spotco/ScrapePlayerDESKTOP",
+		"category":"misc",
+		"text":"Command line (ncurses) music player with 1) support for just about every filetype, 2) small memory/cpu footprint 3) decent library management. Surprisingly, I never found anything else with all 3 on OSX. I actually use this lol."
+
+	},
+	{
+		"name":"SHOOT3KILL",
+		"button":"shoot3kill_button.png",
+		"banner":"shoot3kill_banner.png",
+		"link":"http://spotcos.com/shoot3kill/shoot3kill.html",
+		"category":"games",
+		"text":"Facebook global finals hackathon project AND networks finals project. Online 3d first person shooter with Occulus Rift integration. Will be working on this more, more features and original graphics. <br/><br/>"+
+				'<a href="https://github.com/spotco/Shoot3Kill">source</a>'
+
+	},
+	{
 		"name":"SHOOT2KILL",
 		"button":"shoot2kill_button.png",
 		"banner":"shoot2kill_banner.png",
@@ -85,8 +104,7 @@ var projs = [
 		"banner":"tetris_banner.png",
 		"link":"/misc/tetris.zip",
 		"category":"games",
-		"text":'Everyone must make their own tetris clone at least once in their life. I mine in one weekend while taking cse 143. '+
-				'WARNING: giant while loop alert<br/><br/>'+
+		"text":'Made this back when I was taking intro programming for fun+challenge. Giant while loop alert. <br/><br/>'+
 				'<a href="https://github.com/spotco/JavaTetris">source here</a>'
 	},
 	{
@@ -116,7 +134,7 @@ var projs = [
 		"link":"http://spotcos.com/misc/scrapeplayer/",
 		"category":"misc",
 		"text":'Web scraper and music streamer (think pandora that streams for any http web server).<br/>'+
-				'Scriptable with a pseudo-lisp dialect. Interpreters are magic.<br/>' +
+				'Scriptable with a pseudo-lisp dialect. Now why the hell would you ever want to do that.<br/>' +
 				'<a href="https://github.com/spotco/ScrapePlayer">source and documentation here</a>'
 	},
 	{
@@ -145,9 +163,8 @@ var projs = [
 		"banner":"tshooter_banner.png",
 		"link":"/tshooter",
 		"category":"games",
-		"text":'Challenge: lets see how much performance we can get out of html canvas no frameworks final destination. '+
-				'Answer: not that much. Also done in typescript. Will work on again whenever I get time. Arrow keys to move, space to shoot. <br/>'+
-				'<a href="https://github.com/spotco/TShooter">source here</a>'
+		"text":'shitty game I made a few years ago to see if typescript was any good (it was, but I never touched this again).<br/><br/>'+
+				'<a href="https://github.com/spotco/TShooter">source </a>'
 	},
 	{
 		"name":"Genealogy.js",

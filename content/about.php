@@ -25,20 +25,24 @@
 		<hr />
 		<p>
 			Welcome to my website.<br/>
+			I'm a <a href="http://www.uw.edu">UW</a> student, and a previous CSE 14X TA<br />
+			I worked as a game development intern at Zynga during summer 2013.<br/>
+			I used to draw a lot more, and was a cartoonist for the UW Daily back when I was a freshman.<br />
+		</p>
+		<p>
+			I sometimes code games for fun. <br/>
 			Code for everything I do can be found online at my <a href="https://www.github.com/spotco">github</a>.<br />
-			I'm a <a href="http://www.uw.edu">UW</a> student, and a CSE 14X TA <b><blink>DOSH</blink></b><img src="content/blogimg/emone.gif" style="vertical-align:middle;width:80px;"/>  <br />
-			I also occasionally draw, and I was also a <a href="http://dailyuw.com/staff/shiny-yang/">cartoonist</a> for a while on the UW Daily.<br />
 		</p>
 	</div>
 
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Opoona</dd>
+			<dd>Infinite Space and Super Mario Galaxy 2</dd>
 			<dt>Currently listening to:</dt>
-			<dd>OCRemix</dd>
+			<dd>Kids on the Slope OST</dd>
 			<dt>Currently learning:</dt>
-			<dd>matlab</dd>
+			<dd>systems programming</dd>
 		</dl>
 	</div>
 </div>
