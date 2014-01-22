@@ -25,6 +25,15 @@
 <script>
 var projs = [
 	{
+		"name":"MoeMoeRush!!",
+		"button":"moemoerush_button.png",
+		"banner":"moemoerush_banner.png",
+		"link":"http://www.spotcos.com/misc/moemoerush/bin",
+		"category":"games",
+		"text":"Giant schoolgirl rampages through Tokyo-3 on her way to school. Japanese military does their best to stop her. Cuhrazy rhythm game with real japanese voice acting. Made in 24 hours, thanks to David, Ciera, Yasu and Thomas."
+
+	},
+	{
 		"name":"ScrapePlayer DESKTOP",
 		"button":"scrapeplayerdesktop_button.png",
 		"banner":"scrapeplayerdesktop_banner.png",
@@ -103,7 +112,7 @@ var projs = [
 		"button":"tetris_button.png",
 		"banner":"tetris_banner.png",
 		"link":"/misc/tetris.zip",
-		"category":"games",
+		"category":"school_teaching",
 		"text":'Made this back when I was taking intro programming for fun+challenge. Giant while loop alert. <br/><br/>'+
 				'<a href="https://github.com/spotco/JavaTetris">source here</a>'
 	},
@@ -157,7 +166,7 @@ var projs = [
 				'Designed to show off projects of ASHA, a nonprofit involved with helping children in rural india.<br/>'+
 				'<a href="https://github.com/spotco/ashaproj">source here</a>'
 	},
-	{
+	/*{
 		"name":"TypeScript 2hu",
 		"button":"tshooter_button.png",
 		"banner":"tshooter_banner.png",
@@ -173,7 +182,7 @@ var projs = [
 		"link":"http://spotcos.com/misc/genealogy/genealogy.html",
 		"category":"misc",
 		"text":'Python web scraper for online MathGenealogy site with a web interface. Grabs images from google image search for some occasionally unexpected(-ly hilarious) results. '
-	}
+	}*/
 ];
 
 $(function(){
