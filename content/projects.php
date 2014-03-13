@@ -28,7 +28,7 @@ var projs = [
 		"name":"Window Cleaner - A Tale of Two Gangs",
 		"button":"windowcleaner_button.png",
 		"banner":"windowcleaner_banner.png",
-		"link":"http://www.spotcos.com/misc/moemoerush/bin",
+		"link":"http://spotco.itch.io/window-cleaner---the-love-story",
 		"category":"games",
 		"text":"Clean windows in this dystopian cyberpunk world while two rival gangs battle it out.<br/><br/>Made for the <a href='http://itch.io/jam/cyberpunk-jam'>Cyberpunk Game Jam 2014</a>."
 
