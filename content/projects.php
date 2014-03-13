@@ -30,7 +30,7 @@ var projs = [
 		"banner":"windowcleaner_banner.png",
 		"link":"http://spotco.itch.io/window-cleaner---the-love-story",
 		"category":"games",
-		"text":"Clean windows in this dystopian cyberpunk world while two rival gangs battle it out.<br/><br/>Made for the <a href='http://itch.io/jam/cyberpunk-jam'>Cyberpunk Game Jam 2014</a>."
+		"text":"Clean windows in this dystopian cyberpunk world while two rival gangs battle it out. Thanks to Donovan, Ciera, Yasu and Joshua.<br/><br/>Made for the <a href='http://itch.io/jam/cyberpunk-jam'>Cyberpunk Game Jam 2014</a>."
 
 	},
 	{

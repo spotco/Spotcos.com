@@ -38,11 +38,11 @@
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Infinite Space and Super Mario Galaxy 2</dd>
+			<dd>Super Mario Galaxy 2 and Puzzles and Dragon</dd>
 			<dt>Currently listening to:</dt>
-			<dd>Kids on the Slope OST</dd>
+			<dd>Paco de Lucia - Entre Dos Aguas</dd>
 			<dt>Currently learning:</dt>
-			<dd>systems programming</dd>
+			<dd>flixel</dd>
 		</dl>
 	</div>
 </div>
