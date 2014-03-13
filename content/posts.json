@@ -1,5 +1,6 @@
 {
 	"posts":{
+		"9":{"title":"Cyberpunk Game Jam 2014", "date":"Mar 2014", "url":"content/blogpost/post10.html"},
 		"8":{"title":"MoeMoeRush!!","date":"Jan 2014","url":"content/blogpost/post9.html"},
 		"7":{"title":"SpeedyPups beta","date":"July 2013","url":"content/blogpost/post8.html"},
 		"6":{"title":"workspaces","date":"June 2013","url":"content/blogpost/post7.html"},
@@ -10,5 +11,5 @@
 		"1":{"title":"Hackathon and Typescript 2hu","date":"Oct 2012","url":"content/blogpost/post2.txt"},
 		"0":{"title":"Site Redesign!","date":"Sep 2012","url":"content/blogpost/post1.txt"}
 	},
-	"latest":"8"
+	"latest":"9"
 }
