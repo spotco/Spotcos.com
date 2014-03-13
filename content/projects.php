@@ -25,6 +25,15 @@
 <script>
 var projs = [
 	{
+		"name":"Window Cleaner - A Tale of Two Gangs",
+		"button":"windowcleaner_button.png",
+		"banner":"windowcleaner_banner.png",
+		"link":"http://www.spotcos.com/misc/moemoerush/bin",
+		"category":"games",
+		"text":"Clean windows in this dystopian cyberpunk world while two rival gangs battle it out.<br/><br/>Made for the <a href='http://itch.io/jam/cyberpunk-jam'>Cyberpunk Game Jam 2014</a>."
+
+	},
+	{
 		"name":"MoeMoeRush!!",
 		"button":"moemoerush_button.png",
 		"banner":"moemoerush_banner.png",
@@ -47,7 +56,7 @@ var projs = [
 		"button":"shoot3kill_button.png",
 		"banner":"shoot3kill_banner.png",
 		"link":"http://spotcos.com/shoot3kill/shoot3kill.html",
-		"category":"games",
+		"category":"hackathon",
 		"text":"Facebook global finals hackathon project AND networks finals project. Online 3d first person shooter with Occulus Rift integration. Will be working on this more, more features and original graphics. <br/><br/>"+
 				'<a href="https://github.com/spotco/Shoot3Kill">source</a>'
 
