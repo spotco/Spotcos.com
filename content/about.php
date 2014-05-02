@@ -27,7 +27,7 @@
 			Welcome to my website.<br/>
 			I'm a <a href="http://www.uw.edu">UW</a> student, and a previous CSE 14X TA<br />
 			I worked as a game development intern at Zynga during summer 2013.<br/>
-			I used to draw a lot more, and was a cartoonist for the UW Daily back when I was a freshman.<br />
+			I used to draw a (whole) lot more, and was a cartoonist for the UW Daily back when I was a freshman.<br />
 		</p>
 		<p>
 			I sometimes code games for fun. <br/>
@@ -38,11 +38,11 @@
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Super Mario Galaxy 2 and Puzzles and Dragon</dd>
+			<dd>Super Mario Galaxy 2, Zelda Oracle of Seasons and Puzzles and Dragon</dd>
 			<dt>Currently listening to:</dt>
-			<dd>Paco de Lucia - Entre Dos Aguas</dd>
+			<dd>Kill la Kill OST</dd>
 			<dt>Currently learning:</dt>
-			<dd>flixel</dd>
+			<dd>Haxe</dd>
 		</dl>
 	</div>
 </div>

@@ -25,6 +25,14 @@
     </div>
 
     <div class="span4" id="older">
+        Play My Games!
+        <ul>
+            <li><a href="http://www.spotcos.com/penguin">Maniac Pengmaku!</a></li>
+            <li><a href="http://spotco.itch.io/window-cleaner">Window Cleaner - A Tale of Two Gangs</a></li>
+            <li><a href="http://spotcos.com/moemoerush">MoeMoeRush!!</a></li>
+           <li> <a href="http://spotcos.com/goober">Jump, Goober, Jump!</a></li>
+        </ul>
+        <br/>
         Older posts:
         <ul>
             <?php
