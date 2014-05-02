@@ -30,7 +30,7 @@ var projs = [
 		"banner":"gamedev_banner.png",
 		"link":"http://gamedev.cs.washington.edu",
 		"category":"school_teaching",
-		"text":"Winter/Spring 2014<hr/>Took up most of my time the second half of senior year. Ran everything (did talks, organized events, etc). Participated in two gamejams (with the club) and helped run <a href='http://seattle.codeday.org/'>CodeDay Seattle (May 2014)</a>.<br/><br/><a href='/gamedev'>Talks I did</a>"
+		"text":"Winter/Spring 2014<hr/>Took up most of my time the second half of senior year. Ran everything (did talks, organized events, etc). Participated in two gamejams (with the club) and helped run <a href='http://codeday.org/seattle'>CodeDay Seattle (May 2014)</a>.<br/><br/><a href='/gamedev'>Talks I did</a>"
 	},
 	{
 		"name":"Maniac Pengmaku",
