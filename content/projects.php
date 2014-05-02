@@ -54,7 +54,7 @@ var projs = [
 		"name":"MoeMoeRush!!",
 		"button":"moemoerush_button.png",
 		"banner":"moemoerush_banner.png",
-		"link":"http://www.spotcos.com/moemoerush",
+		"link":"http://spotco.itch.io/moemoerush",
 		"category":"games",
 		"text":"January 2014<hr/>Giant schoolgirl rampages through Tokyo-3 on her way to school. Japanese military does their best to stop her. Cuhrazy rhythm game with real japanese voice acting. <br/><br/>Made in 24 hours, thanks to David, Ciera, Yasu and Thomas."
 
