@@ -19,7 +19,25 @@
 </style>
 
 <script>
+/**
+https://github.com/openzoom/deepzoom.py
+import deepzoom
+cons = deepzoom.ImageCreator()
+cons.create("pengmaku_top.png","pengmaku_top.dzi")
+**/
 var PICS = [
+	{
+		"deepzoomxml":"21.xml",
+		"url":"21.jpg",
+		"title":"PengMaku Art",
+		"text":"Art I did for PengMaku (Ludum Dare 29)"
+	},
+	{
+		"deepzoomxml":"20.xml",
+		"url":"20.jpg",
+		"title":"PengMaku Art",
+		"text":"Art I did for PengMaku (Ludum Dare 29)"
+	},
 	{
 		"deepzoomxml":"10.xml",
 		"url":"10.jpg",
@@ -132,10 +150,10 @@ var PICS = [
 function init() {
     viewer = new Seadragon.Viewer("container");
 
-	var cur_pic = 0;
+	var cur_pic = Math.floor(Math.random()*PICS.length);
 	var change_pic = function(){
 		viewer.openDzi("/content/deepzoom_img/"+PICS[cur_pic].deepzoomxml);
-		$("#imgtitle").text(PICS[cur_pic].title);
+		$("#imgtitle").text(PICS[cur_pic].title + " (" + cur_pic + "/" + PICS.length + ")");
 		$("#imgtext").text(PICS[cur_pic].text);
 	};
 
