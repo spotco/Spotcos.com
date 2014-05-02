@@ -3,7 +3,7 @@
 <head>
 <link href="favicon.png" type="image/png" rel="shortcut icon" />      
 <title>spotcos.com</title>
-<link href='http://fonts.googleapis.com/css?family=Comfortaa|Lora' rel='stylesheet' type='text/css'>
+<link href='/comfortaa_lora.css' rel='stylesheet' type='text/css'>
 <script src="jquery.js"></script>
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <script src="bootstrap/js/bootstrap.min.js"></script>
