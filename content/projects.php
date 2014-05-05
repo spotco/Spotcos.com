@@ -38,7 +38,7 @@ var projs = [
 		"banner":"pengmaku_banner.png",
 		"link":"http://spotcos.com/penguin",
 		"category":"games",
-		"text":"April 2014<hr/>TBullet hell (Danmaku) shooter based on penguins.<br/> Made in 48 hours for <a href='http://www.ludumdare.com/compo/ludum-dare-29/'>Ludum Dare 29 Compo</a><br/>(Theme: Beneath the Surface) <br/><br/><a href='https://github.com/spotco/pingouin_shooter'>Source</a>"
+		"text":"April 2014<hr/>Bullet hell (Danmaku) shooter based on penguins.<br/> Made in 48 hours for <a href='http://www.ludumdare.com/compo/ludum-dare-29/'>Ludum Dare 29 Compo</a><br/>(Theme: Beneath the Surface) <br/><br/><a href='https://github.com/spotco/pingouin_shooter'>Source</a>"
 
 	},
 	{
@@ -56,7 +56,7 @@ var projs = [
 		"banner":"moemoerush_banner.png",
 		"link":"http://spotco.itch.io/moemoerush",
 		"category":"games",
-		"text":"January 2014<hr/>Giant schoolgirl rampages through Tokyo-3 on her way to school. Japanese military does their best to stop her. Cuhrazy rhythm game with real japanese voice acting. <br/><br/>Made in 24 hours, thanks to David, Ciera, Yasu and Thomas."
+		"text":"January 2014<hr/>Giant schoolgirl rampages through Tokyo-3 on her way to school. Japanese military does their best to stop her. Cuhrazy rhythm game with real japanese voice acting. <br/><br/>Made in 24 hours, thanks to David, Ciera, Yasu, Kyle and Thomas."
 
 	},
 	{
