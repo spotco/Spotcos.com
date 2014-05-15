@@ -182,3 +182,103 @@
 (03-19 9:22)|?|A steel rod hangs vertically from a fixed support. The rod is 1.2 long and 1.1 in diameter.What mass hung from the rod will stretch it by 0.22 ?
 (03-19 9:22)|?|help please
 (03-20 1:54)|?|need spring coef
+(08-08 2:13)Ryo|?|Hi Shiny
+(09-26 11:12)|?|be764a66af60a4b6923577a417ee816b
+(10-06 12:40)lel|?|posted from my wii
+(10-14 1:25)modelsim shit|?|http://users.ece.cmu.edu/~kbiswas/se_cmds.pdf
+(10-14 1:26)modelsim shit|?|``wave create -pattern clock lol''
+(10-20 7:01)|?|http://spotcos.com/misc/UW_PHYS_12X_ANSWERS/ gives a 404 not found error. please help
+(10-20 9:03)|?|NOOOOOOOOOO! 404 error for all of the physics solutions :( help!
+(10-20 10:01)|?|any luck finding a new physics solution site?
+(10-20 10:57)|?|we found a bunch of solutions on scribd but they only show the work, there isn't an explanation to go along with it. which is required by our professor, so fml. but I recommend scribd, just search for tipler 6th edition chapter whatever and you should be able to find it :)
+(10-20 11:42)|?|http://www.hep.nd.edu/mikeh/for_kevin/Ch12%20ISM.pdf is chapter 12 answers and http://www.hep.nd.edu/mikeh/for_kevin/Ch09%20ISM.pdf is chapter 9
+(10-21 1:06)|?|good news, i found them. they are still here, you just have to dig for them.
+(10-22 2:48)spotco|?|changed the link slightly because they were on some tracking sites, sorry
+(10-22 2:48)spotco|?|should be easy enough to find at spotcos(dot)com(slash)misc
+(10-23 8:11)|?|The links not working
+(10-23 11:49)|?|I need to do my homework! Please don't hack this PDF
+(10-24 12:57)|?|(10-21 1:06) could you please tell me what link you found them on. thanks
+(10-24 4:12)FRANCIS|?|Hey im trying to study my physics and your solutions manual is gone... HELP!!!!!
+(10-24 4:30)FRANCIS|?|never mind, tee hee : )))
+(10-24 7:43)Leif|?|Haha, I was wondering the same thing about the UW phys
+(10-26 5:05)|?|Hey could you tell me where you found the sites.
+(10-27 6:06)Tall Man|?|hey dere! so I found the solutions on the old site. link on the home page. Also to avoid fear if the PDF goes down again just download the last &quot;complete Solutions&quot; learn well friends!
+(11-22 3:41)|?|http://pastebin.com/e4ZbhrtZ
+(12-12 5:04)spotco|?|test
+(12-12 5:04)spotco|?|wow what a nice client here
+(12-12 5:05)test|?|nice client m8
+(12-12 5:05)test|?|wow
+(12-12 5:05)test|?|wowowowow
+(12-12 5:06)test|?|ur funny guy
+(12-12 5:13)asd|?|test
+(12-12 5:16)test|?|test lol
+(12-12 5:16)test|?|test2
+(12-12 5:16)test|?|test3
+(12-12 5:17)test|?|lol u wut m9
+(12-12 5:41)asdsa|?|cant even jump anymore :\
+(12-12 5:48)asdads|?|fuck
+(12-12 5:54)spotco|?|lel
+(12-12 6:10)test|?|test
+(12-12 6:10)test|?|test
+(12-12 6:12)test|?|better response time
+(12-12 6:24)asd|?|test
+(12-12 6:43)test|?|fug
+(12-12 6:45)test|?|whaou
+(12-13 2:56)asd|?|test
+(12-13 3:57)asd|?|test
+(12-13 3:57)asd|?|test2
+(12-13 3:57)asd|?|wow this works
+(12-13 3:57)asd|?|this is ok
+(12-13 3:59)test|?|test
+(12-13 4:01)tasd|?|test
+(12-13 4:02)tasd|?|the fuq
+(12-13 4:26)asdasd|?|tp[ ;e;;
+(12-13 5:07)sadsad|?|u wut m8
+(12-13 2:25)spotco|?|test
+(12-13 9:34)asd|?|test
+(12-13 9:37)asd|?|w
+(12-13 9:37)asd|?|toplel
+(12-14 12:16)sato|?|salam
+(12-16 4:37)spotco1|?|das
+(12-16 4:42)spotco1|?|penis
+(12-17 11:23)|?|sup brah
+(12-17 11:23)|?|this website is not very usable
+(12-17 11:23)|?|design crime
+(01-10 2:34)|?|crime against humanity
+(01-20 4:45)Josh Wong|?|GIMME THE CHOCOLATE
+(03-24 7:55)|?|;kjlhgfd
+(03-27 11:22)|?|You guys suck. you took down the link to my answer key for my physics homework and replaced it with a link to this site and a picture of a cat eating watermelon. Thanks a fucking lot. 
+(04-03 10:45)|?|look again spotcos*DOT*com*SLASH*misc
+(04-27 11:14)|?|WHERE IS MY FUCKING PHYSICS
+(04-27 11:15)|?|HOW CAN I DO WEBASSIGN
+(04-27 3:30)|?|MY PHYSICS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+(04-27 3:30)|?|
+(04-27 3:35)bob|?|hi
+(04-27 4:13)|?|Pleeeeease fix the (spotcos.com/misc) link, it has been so helpful to me.  
+(04-27 5:26)|?|Bro we need the physics or we are all going to fail
+(04-27 7:57)|?|If you would return the physics to me, I would gladly repay you with 100 camels
+(04-27 7:58)|?|IF I DON'T GET MY FUCKING PHYSICS SOLUTIONS BACK I WILL START KILLING INNOCENT PUPPIES. STARTING TODAY
+(04-27 8:35)|?|Is the physics being removed from the site the beginning of the end of my educational career? 
+(04-27 8:37)|?|Looks like I am getting a 0% on this week's webassign.
+(04-27 8:41)|?|I will legit get down on my knees if you fix the physics link
+(04-28 3:40)|?|needed to move the folder to get some bandwidth for the ludum dare entry I'm hosting
+(04-28 3:40)|?|still available look for spotcos(dot)com(slash)__misc
+(04-28 6:38)|?|why don't you guys just fuckin google &quot;tipler ch XX solutions&quot; its literally the first link  that pops up like damn yo
+(04-28 11:57)|?|&lt;3
+(04-29 1:28)matt|?|&lt;3
+(04-29 2:37)Jake|?|Whoever figured out the link, thank you so much
+(04-29 4:59)|?|spotcos.com/_misc works :) thank you
+(04-29 5:43)|?|physics please
+(04-29 6:18)Jake|?|just tried spotcos.com/misc and spotcos.com/_misc and neither is working. Please help
+(04-29 6:18)Jake|?|
+(04-29 7:12)Jake|?|never mind, i got it to work, thanks
+(04-30 5:34)allen|?|Jake how did you get it to work? 
+(04-30 5:34)allen|?|
+(04-30 5:37)allen|?|jake how did you get it to work
+(04-30 6:12)Kylee|?|How do you get the physics link to work??
+(04-30 7:40)|?|You have to put this link into your address bar. http://spotcos.com/__misc/ 
+(04-30 7:40)|?|notice there are 2 underscores before the word misc and there is no www.
+(05-01 11:01)|?|The link changes every week or so.
+(05-02 2:53)|?|pretty amusing to watch NOT GONNA LIE
+(05-02 12:13)000|?|thanks jake!
+(05-15 10:02)|?|LOL u guys 
