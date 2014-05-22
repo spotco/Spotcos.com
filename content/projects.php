@@ -30,7 +30,7 @@ var projs = [
 		"banner":"gamedev_banner.png",
 		"link":"http://gamedev.cs.washington.edu",
 		"category":"school_teaching",
-		"text":"Winter/Spring 2014<hr/>Took up most of my time the second half of senior year. Ran everything (did talks, organized events, etc). Participated in two gamejams (with the club) and helped run <a href='http://codeday.org/seattle'>CodeDay Seattle (May 2014)</a>.<br/><br/><a href='/gamedev'>Talks I did</a>"
+		"text":"Winter/Spring 2014<hr/>Took up most of my time the second half of senior year. Ran everything (did talks, organized events, etc). Participated in two gamejams (with the club).<br/><br/><a href='/gamedev'>Talks I did</a>"
 	},
 	{
 		"name":"Maniac Pengmaku",
@@ -162,7 +162,7 @@ var projs = [
 		"name":"ScrapePlayer2.0",
 		"button":"scrape_button.png",
 		"banner":"scrape_banner.png",
-		"link":"http://spotcos.com/misc/scrapeplayer/",
+		"link":"http://spotcos.com/scrapeplayer/",
 		"category":"misc",
 		"text":'2012<hr/>Web scraper and music streamer (think pandora that streams for any http web server).<br/>'+
 				'Scriptable with a pseudo-lisp dialect. Now why the hell would you ever want to do that.<br/>' +
