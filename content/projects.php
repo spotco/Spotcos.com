@@ -164,7 +164,7 @@ var projs = [
 		"name":"ScrapePlayer2.0",
 		"button":"scrape_button.png",
 		"banner":"scrape_banner.png",
-		"link":"http://spotcos.com/misc/scrapeplayer/",
+		"link":"http://spotcos.com/scrapeplayer/",
 		"category":"misc",
 		"text":'2012<hr/>Web scraper and music streamer (think pandora that streams for any http web server).<br/>'+
 				'Scriptable with a pseudo-lisp dialect. Now why the hell would you ever want to do that.<br/>' +
