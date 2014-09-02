@@ -78,12 +78,20 @@ hr {
       <div class="navbar-inner" id="navbar_body">
 
         <div class="container" id="navbar"> 
-            <a class="brand" href="?page=home"><img src="assets/logo.png" /></a>
+            <a class="brand" href="?page=home"><img src="assets/spotcos_logo.png" style="height:40px" /></a>
             <div class="nav-collapse">
             <ul class="nav">
                 <?php
+                    $names = array(
+                        "home" => "blog",
+                        "projects" => "games",
+                        "art" => "art",
+                        "about" => "about",
+                        "chat" => "leave a message"
+                    );
+
                     foreach (array("home","projects","art","about","chat") as $key => $value) {
-                        ?><li class="navbar_icon <?= $value == $page ? "current":"" ?>"><a href="?page=<?=$value?>"><?=$value?></a></li><?php
+                        ?><li class="navbar_icon <?= $value == $page ? "current":"" ?>"><a href="?page=<?=$value?>"><?=$names[$value]?></a></li><?php
                     }
                 ?>
             </ul>
@@ -97,17 +105,17 @@ hr {
                 </a>
                 <a href="http://github.com/spotco">
                     <img src="assets/github.png" style="height:40px;width:40px;" />
-                </a>
+                </a><!--
                 <a href="http://steamcommunity.com/profiles/76561197995620376">
                     <img src="assets/steam.png" style="height:40px;width:40px;" />
-                </a>
+                </a>-->
             </div>
         </div>
 
       </div>
     </div>
 
-    <div class="container" id="maincontainer">
+    <div class="container" id="maincontainer" <?=$page=="home"?'style="width:80%;"' : ''?>>
         <?php include("content/$page.php"); ?>
     </div>
 

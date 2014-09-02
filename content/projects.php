@@ -19,17 +19,27 @@
 	float:left;
 	margin-right:15px;
 	box-shadow: 0 0 5px #777777;
+	margin-bottom: 15px;
 }
 </style>
 
 <script>
 var projs = [
 	{
+		"name":"Dreaming Knight: Little Hero",
+		"button":"littlehero_button.png",
+		"banner":"littlehero_banner.png",
+		"link":"http://spotcos.com/littlehero",
+		"category":"games",
+		"text":"August 2014<hr/>Top-down RPG-Brawler with bullet hell elements.<br/> Made in 72 hours for <a href='http://www.ludumdare.com/compo/ludum-dare-30/'>Ludum Dare 30 Jam</a><br/>(Theme: Connected Worlds). <br/><br/>Thanks to Josh and Josephine."
+
+	},
+	{
 		"name":"UW GameDev Club",
 		"button":"gamedev_button.png",
 		"banner":"gamedev_banner.png",
 		"link":"http://gamedev.cs.washington.edu",
-		"category":"school_teaching",
+		"category":"misc",
 		"text":"Winter/Spring 2014<hr/>Took up most of my time the second half of senior year. Ran everything (did talks, organized events, etc). Participated in two gamejams (with the club) and helped run <a href='http://codeday.org/seattle'>CodeDay Seattle (May 2014)</a>.<br/><br/><a href='/gamedev'>Talks I did</a>"
 	},
 	{
@@ -67,7 +77,7 @@ var projs = [
 		"category":"misc",
 		"text":"2013<hr/>Command line (ncurses) music player with 1) support for just about every filetype, 2) small memory/cpu footprint 3) decent library management. Surprisingly, I never found anything else with all 3 on OSX. I actually use this lol."
 
-	},
+	},/*
 	{
 		"name":"SHOOT3KILL",
 		"button":"shoot3kill_button.png",
@@ -87,7 +97,7 @@ var projs = [
 		"text":'March 2013<hr/>Entry for 2013 Facebook PNW Hackathon. We won (GOING TO CALI BABY). Online 3d FPS using webgl and node.js/socket.io.<br/><br/>'+
 		"<a href='https://github.com/spotco/shoot2kill'>Fork my dongle</a>"
 
-	},
+	},*/
 	{
 		"name":"Speedy Pups",
 		"button":"runner_button.png",
@@ -97,7 +107,7 @@ var projs = [
 		"text":'2012-2014<hr/>My current project, an iOS platformer/runner using cocos2d. '+
 				'I bought a mac mini just for this.'+
 				'It was also greatly influenced by Rayman Origins (which I happened to be playing...this was originally supposed to be a much simpler game!).<br/><br/>'
-	},
+	},/*
 	{
 		"name":"CampusView3D",
 		"button":"campus_button.png",
@@ -107,7 +117,7 @@ var projs = [
 		"text":'2012<hr/>Some class final project. We were supposed to make a GUI map, and I wanted to make a gps navigator. '+
 				'Used JOGL to embed an openGL canvas inside a swing frame. STILL don\'t know the best way to do 3d in java, though this somehow works.<br/><br/>'+
 				'<a href="https://github.com/spotco/CampusView3D">source here</a>'
-	},
+	},*/
 	{
 		"name":"Jump, Goober, Jump!!",
 		"button":"jgj_button.png",
@@ -129,15 +139,7 @@ var projs = [
 				'I describe it as 2d metal gear solid + puzzles. In retrospect, it was a little too difficult and definitely needed checkpoints. I\'d like to redo it in 3d someday.<br/><br/>'+
 				'<a href="https://github.com/spotco/Save-the-Princess">source here</a>'
 	},
-	{
-		"name":"JavaTetris",
-		"button":"tetris_button.png",
-		"banner":"tetris_banner.png",
-		"link":"/misc/tetris.zip",
-		"category":"school_teaching",
-		"text":'2010<hr/>Made this back when I was taking intro programming for fun+challenge. Giant while loop alert. <br/><br/>'+
-				'<a href="https://github.com/spotco/JavaTetris">source here</a>'
-	},/*
+/*
 	{
 		"name":"Fill in the ___",
 		"button":"fillinthe_button.png",
@@ -147,7 +149,7 @@ var projs = [
 		"text":'My entry for a yahoo hackathon, a pseudo-search engine. I spent the whole 24 hours doing these pretty effects.<br/><br/>'+
 				'<a href="https://github.com/spotco/Fill-In-the-____">source here</a>'
 
-	},*/
+	},
 	{
 		"name":"FaceMii",
 		"button":"facemii_button.png",
@@ -157,7 +159,7 @@ var projs = [
 		"text":'2011<hr/>My entry for some facebook hackathon back in 2011. Looking back, it\'s probably some of the worst code I\'ve ever written, lol (and I don\'t think the 24 hour limit excuses it). '+
 				'When it does work, it\'s like a cute little js booklet that shows all your friends and their messages. I think we won a 30$ itunes gift card for it.<br/><br/>'+
 				'<a href="https://github.com/spotco/FaceMii">source here</a>'
-	},
+	},*/
 	{
 		"name":"ScrapePlayer2.0",
 		"button":"scrape_button.png",
@@ -169,6 +171,15 @@ var projs = [
 				'<a href="https://github.com/spotco/ScrapePlayer">source and documentation here</a>'
 	},
 	{
+		"name":"JavaTetris",
+		"button":"tetris_button.png",
+		"banner":"tetris_banner.png",
+		"link":"/misc/tetris.zip",
+		"category":"misc",
+		"text":'2010<hr/>Made this back when I was learning programming for fun+challenge. Giant while loop alert. <br/><br/>'+
+				'<a href="https://github.com/spotco/JavaTetris">source here</a>'
+	},/*
+	{
 		"name":"CSE 190m Extras",
 		"button":"extra_button.png",
 		"banner":"extra_banner.png",
@@ -177,7 +188,7 @@ var projs = [
 		"text":'2011-2013<hr/>My favorite part about TA-ing cse190 was doing lectures about extra material. '+
 				'I`d go over all sorts of exciting web technologies such as node.js, css transforms, bootstrap and much more. '+
 				'All the materials I used are saved here.'
-	},/*
+	},
 	{
 		"name":"ASHAnet projects page",
 		"button":"ashaproj_button.png",
@@ -244,21 +255,23 @@ $(function(){
 <hr />
 
 <div class="row" style="width:1000px">
-	<div class="span6" id="games">
+	<div class="span12" id="games">
 		<h3>Games</h3>
 	</div>
-
+	<!--
 	<div class="span6" id="hackathon" style="margin-left:30px;">
 		<h3>Hackathon</h3>
 	</div>
+    -->
 </div>
 <br/>
 <div class="row" style="width:1000px">
+	<!--
 	<div class="span6" id="school_teaching">
 		<h3>School/Teaching</h3>
 	</div>
-
-	<div class="span6" id="misc" style="margin-left:30px;">
+	-->
+	<div class="span12" id="misc" style="">
 		<h3>Misc</h3>
 	</div>
 </div>

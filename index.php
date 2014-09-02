@@ -1,4 +1,12 @@
 <?php
+
+function imglink($src, $style="") {
+	?>
+	<a href="<?=$src?>"><img class="img-polaroid" style="<?=$style?>" src="<?=$src?>" title="<?=$src?>"/></a>
+	<?php
+}
+
+
     if (!isset($_GET["page"])) {
         $_GET["page"] = "home";
     }

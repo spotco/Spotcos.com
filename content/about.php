@@ -25,24 +25,24 @@
 		<hr />
 		<p>
 			Welcome to my website.<br/>
-			I'm a <a href="http://www.uw.edu">UW</a> student, and a previous CSE 14X TA<br />
-			I worked as a game development intern at Zynga during summer 2013.<br/>
-			I used to draw a (whole) lot more, and was a cartoonist for the UW Daily back when I was a freshman.<br />
-		</p>
-		<p>
-			I sometimes code games for fun. <br/>
-			Code for everything I do can be found online at my <a href="https://www.github.com/spotco">github</a>.<br />
+			I make Indie games under the name "SPOTCO".<br/>
+			I was also at various points in time:
+			<ul>
+				<li>A Cartoonist for the <a href="http://dailyuw.com/">UW Daily</a></li>
+				<li>A TA for <a href="http://cs.washington.edu/">UW CSE</a></li>
+				<li>Intern at <a href="http://zynga.com/">Zynga</a></li>
+				<li>Intern at <a href="http://apple.com">Apple</a></li>
+			</ul>
+			And am currently working at Zynga in San Francisco.
 		</p>
 	</div>
 
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Super Mario Galaxy 2, Zelda Oracle of Seasons and Puzzles and Dragon</dd>
+			<dd>Little King's Story</dd>
 			<dt>Currently listening to:</dt>
-			<dd>Kill la Kill OST</dd>
-			<dt>Currently learning:</dt>
-			<dd>Haxe</dd>
+			<dd>Stein's Gate OST</dd>
 		</dl>
 	</div>
 </div>

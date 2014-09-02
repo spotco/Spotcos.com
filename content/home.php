@@ -6,7 +6,7 @@
 
 
 <div class="row">
-    <div class="span8">
+    <div class="span8" style="width:60%">
         <?php
         $posts = json_decode(file_get_contents("content/posts.json"),true);
 
@@ -19,14 +19,24 @@
 
         $target_post = $posts["posts"]["$target_post"];
 
-        $content = file_get_contents($target_post["url"]);
-        echo $content;
+        if (isset($target_post["php"])) {
+            include $target_post["url"];
+        } else {
+            $content = file_get_contents($target_post["url"]);
+            echo $content;
+        }
         ?>
     </div>
 
-    <div class="span4" id="older">
+    <style>
+    [class*="span"] {
+        margin-left:0!important;
+    }
+    </style>
+    <div class="span4" style="width:40%; margin-left:0;" id="older">
         Play My Games!
         <ul>
+             <li><a href="http://www.spotcos.com/littlehero">Dreaming Knight: The Little Hero</a></li>
             <li><a href="http://www.spotcos.com/penguin">Maniac Pengmaku!</a></li>
             <li><a href="http://spotco.itch.io/window-cleaner">Window Cleaner - A Tale of Two Gangs</a></li>
             <li><a href="http://spotco.itch.io/moemoerush">MoeMoeRush!!</a></li>
