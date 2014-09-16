@@ -26,6 +26,15 @@
 <script>
 var projs = [
 	{
+		"name":"CrazyCars",
+		"button":"crazycars_button.png",
+		"banner":"crazycars_banner.png",
+		"link":"http://spotcos.com/crazycars",
+		"category":"games",
+		"text":"August 2014<hr/>CrazyTaxi clone made in 48 hours for Advance Game Jam.<br/>Thanks to Josi, Henry, Tatsuro and Takumi."
+
+	},
+	{
 		"name":"Dreaming Knight: Little Hero",
 		"button":"littlehero_button.png",
 		"banner":"littlehero_banner.png",
