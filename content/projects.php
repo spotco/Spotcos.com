@@ -112,10 +112,8 @@ var projs = [
 		"button":"runner_button.png",
 		"banner":"runner_banner.png",
 		"link":"http://speedypups.com",
-		"category":"games",
-		"text":'2012-2014<hr/>My current project, an iOS platformer/runner using cocos2d. '+
-				'I bought a mac mini just for this.'+
-				'It was also greatly influenced by Rayman Origins (which I happened to be playing...this was originally supposed to be a much simpler game!).<br/><br/>'
+		"category":"major_games",
+		"text":'2012-2014<hr/>Our first major mobile game, in development for over a year.<br/>A platformer/infinite runner inspired by retro classics like Sonic and Rayman. Multiple worlds, three bosses, fun minigames and lots of challenge!<br/><br/>Art by <a href="http://heytomchang.com/">Tom</a>.'
 	},/*
 	{
 		"name":"CampusView3D",
@@ -132,7 +130,7 @@ var projs = [
 		"button":"jgj_button.png",
 		"banner":"jgj_banner.png",
 		"link":"http://www.spotcos.com/goober",
-		"category":"games",
+		"category":"misc",
 		"text":'2012<hr/>Platformer made in flash, ~30 levels, multiple bosses and online level editor. '+
 				'My first game that other people actually played. It got sponsored, so I actually made some money off it! '+
 				'I did all the art too. That won\'t be happening again.<br/><br/>'+
@@ -143,7 +141,7 @@ var projs = [
 		"button":"stp_button.png",
 		"banner":"stp_banner.png",
 		"link":"/SaveThePrincess/SaveThePrincess.zip",
-		"category":"games",
+		"category":"misc",
 		"text":'2011<hr/>My first "real" game, done in java using the slick library. '+
 				'I describe it as 2d metal gear solid + puzzles. In retrospect, it was a little too difficult and definitely needed checkpoints. I\'d like to redo it in 3d someday.<br/><br/>'+
 				'<a href="https://github.com/spotco/Save-the-Princess">source here</a>'
@@ -262,10 +260,20 @@ $(function(){
 </div>
 
 <hr />
-
+<div class="row" style="width:1000px">
+	<div class="span12" id="major_games">
+		<h3>Major Games</h3>
+	</div>
+	<!--
+	<div class="span6" id="hackathon" style="margin-left:30px;">
+		<h3>Hackathon</h3>
+	</div>
+    -->
+</div>
+<br/>
 <div class="row" style="width:1000px">
 	<div class="span12" id="games">
-		<h3>Games</h3>
+		<h3>Jam Games</h3>
 	</div>
 	<!--
 	<div class="span6" id="hackathon" style="margin-left:30px;">
@@ -281,6 +289,6 @@ $(function(){
 	</div>
 	-->
 	<div class="span12" id="misc" style="">
-		<h3>Misc</h3>
+		<h3>Misc+Older Stuff</h3>
 	</div>
 </div>
