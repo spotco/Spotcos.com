@@ -26,6 +26,15 @@
 <script>
 var projs = [
 	{
+		"name":"Ricochet Heroes",
+		"button":"ricochethero_button.png",
+		"banner":"ricochethero_banner.png",
+		"link":"http://spotcos.com/ricochet_hero",
+		"category":"games",
+		"text":"December 2014<hr/>Pinball RPG made for LD31 with Josh, special thanks to Josi and Charles."
+
+	},
+	{
 		"name":"CrazyCars",
 		"button":"crazycars_button.png",
 		"banner":"crazycars_banner.png",
