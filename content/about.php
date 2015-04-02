@@ -24,17 +24,18 @@
 		<p class="subheader"><a href="http://www.jobspice.com/spotco">Resume</a></p>
 		<hr />
 		<p>
-			This is the website for the indie dev <a href="http://twitter.com/spotco">SPOTCOS</a>.<br/>
-			I've previously worked at <a href="http://zynga.com/">Zynga</a></li> and <a href="http://apple.com">Apple</a></li>.
+			<a href="http://twitter.com/spotco">@spotco</a><br/>
+			(Indie?) game dev. I make program. <br/><br/>
+			Previously worked at <a href="http://zynga.com/">Zynga</a></li> and <a href="http://apple.com">Apple</a>, currently at <a href="http://gree-corp.com/">Gree</a></li>.
 		</p>
 	</div>
 
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Divinity Original Sin, Little King's Story</dd>
+			<dd>Monster Hunter 4</dd>
 			<dt>Currently listening to:</dt>
-			<dd>Stein's Gate OST</dd>
+			<dd>The Pillows</dd>
 		</dl>
 	</div>
 </div>

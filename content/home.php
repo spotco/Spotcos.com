@@ -34,7 +34,7 @@
     }
     </style>
     <div class="span4" style="width:40%; margin-left:0;" id="older">
-        Play My Games!
+        Play Some Games!
         <ul>
             <li><a href="http://www.spotcos.com/ricochet_hero">Ricochet Heroes</a></li>
              <li><a href="http://www.spotcos.com/littlehero">Dreaming Knight: The Little Hero</a></li>
