@@ -199,6 +199,7 @@ $(function(){
 			$("#cur_proj_desc").html(i["text"]);
 			$("#disp_window").css({"background-image":"url(\"content/projectsimg/banner/"+i["banner"]+"\")","opacity":1.0});
 			$(".cur_proj_link").attr({"href":i["link"]});
+			window.scrollTo(0, 0);
 		});
 		n_button.hover(function(){
 			n_button.css({"border":"3px solid red"});
