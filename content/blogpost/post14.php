@@ -46,11 +46,11 @@ Start the MoeMoeRush2 app with Oculus Rift attached, pick a uncompressed WAV fil
 <?php show_image("/content/blogimg/mm2_file_select.png",300,"margin:10px"); ?>
 <br/><br/>
 After it loads, alt+tab to WiimoteSocketApp and press "Reconnect Unity". Hold the Wiimotes still until both are connected and calibrated.<br/>
-<?php show_image("/content/blogimg/mm2_ready_state.png",300,"margin:10px"); ?><br/>
+<?php show_image("/content/blogimg/mm2_ready_state.png",300,"margin:10px"); ?>
 <br/><br/>
 For best results, put a (powered) Wii sensor bar directly infront of the player. 
 I don't use the IR values to track (that's what the MotionPlus is for), but it'll recenter when facing the IR bar (which is necessary, since the MotionPlus has a lot of drift).<br/>
-<?php show_image("/content/blogimg/mm2_sensor_bar_setup.png",300,"margin:10px"); ?><br/>
+<?php show_image("/content/blogimg/mm2_sensor_bar_setup.png",300,"margin:10px"); ?>
 <br/><br/>
 This was a whole lot of fun in that I was able to create the polished, VR-focused game that I've always been meaning to do.
 However, I was really surprised by how buggy the latest DK2-Compatible Oculus Unity SDK was (wrong colors, un-disable-able warning message, program hang if enable+disable multiple times).
