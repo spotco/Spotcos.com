@@ -152,7 +152,7 @@ var projs = [
 		"name":"Jump, Goober, Jump!!",
 		"button":"jgj_button.png",
 		"banner":"jgj_banner.png",
-		"link":"http://www.spotcos.com/goober",
+		"link":"http://spotco.itch.io/jump-goober-jump",
 		"category":"games",
 		"text":'2012<hr/>Platformer made in flash, ~30 levels, multiple bosses and online level editor. '+
 				'My first game that other people actually played. It got sponsored, so I actually made some money off it! '+
