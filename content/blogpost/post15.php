@@ -57,6 +57,7 @@ A real shame since I really love the Unity workflow and HTML5 is so bad.
 Finally, work continues on Hanoka Mobile (which is probably no longer mobile-focused).
 Pivoted to a PC/Console (XBLA/PS4 STORE BABY) focus with a Unity-based codebase.
 Also more artists on the team.
+<br/>
 <?=show_image("/content/blogimg/15_4.gif",250,"margin:20px;")?>
 <br/>
 Launch by end of a summer was a lie. I don't think I was ever serious about it :)
