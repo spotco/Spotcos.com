@@ -27,6 +27,24 @@ cons.create("pengmaku_top.png","pengmaku_top.dzi")
 **/
 var PICS = [
 	{
+		"deepzoomxml":"robin.xml",
+		"url":"robin.jpg",
+		"title":"Fire Emblem Awakening Fanart",
+		"text":"What if FE:A it was a highschool anime"
+	},
+	{
+		"deepzoomxml":"villager_fishwoman.xml",
+		"url":"villager_fishwoman.png",
+		"title":"Hanokam Early Character Art",
+		"text":"dem proportions"
+	},
+	{
+		"deepzoomxml":"oldman_original.xml",
+		"url":"oldman_original.png",
+		"title":"Hanokam Early Character Art",
+		"text":"this was like the first time I painted in 3 years"
+	},
+	{
 		"deepzoomxml":"21.xml",
 		"url":"21.jpg",
 		"title":"PengMaku Art",
@@ -150,10 +168,11 @@ var PICS = [
 function init() {
     viewer = new Seadragon.Viewer("container");
 
-	var cur_pic = Math.floor(Math.random()*PICS.length);
+	//var cur_pic = Math.floor(Math.random()*PICS.length);
+	var cur_pic = 0;
 	var change_pic = function(){
 		viewer.openDzi("/content/deepzoom_img/"+PICS[cur_pic].deepzoomxml);
-		$("#imgtitle").text(PICS[cur_pic].title + " (" + cur_pic + "/" + PICS.length + ")");
+		$("#imgtitle").text(PICS[cur_pic].title + " (" + (cur_pic+1) + "/" + PICS.length + ")");
 		$("#imgtext").text(PICS[cur_pic].text);
 	};
 

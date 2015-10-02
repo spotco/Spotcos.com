@@ -42,6 +42,15 @@ var projs = [
 		"text":"March 2015<hr/>Oculus Rift game controlled with two Wiimotes.<br/> Special thanks to Yunyi, Allen, Ciera and Yasu.<br/><br/><a href='/?post=13'>Post with download</a>"
 	},
 	{
+		"name":"Monday Night Monsters",
+		"button":"mnm_button.png",
+		"banner":"mnm_banner.png",
+		"link":"http://spotco.itch.io/monday-night-monsters",
+		"category":"games",
+		"text":"October 2015<hr/>Sports RTS made for LD33 with Josh and Shyam."
+
+	},
+	{
 		"name":"Ricochet Heroes",
 		"button":"ricochethero_button.png",
 		"banner":"ricochethero_banner.png",
