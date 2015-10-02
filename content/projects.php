@@ -150,12 +150,12 @@ var projs = [
 		"text":'2012-2014<hr/>Our first major mobile game, in development for over a year.<br/>A platformer/infinite runner inspired by retro classics like Sonic and Rayman. Multiple worlds, three bosses, fun minigames and lots of challenge!<br/><br/>Art by <a href="http://heytomchang.com/">Tom</a>.'
 	},
 	{
-		"name":"CampusView3D",
-		"button":"campus_button.png",
-		"banner":"campus_banner.png",
-		"link":"http://spotcos.com/misc/CampusView3D.jar",
+		"name":"Speedypups Level Editor",
+		"button":"speedypups_leveleditor_button.png",
+		"banner":"speedypups_leveleditor_banner.png",
+		"link":"http://spotcos.com/gogodoggy/editor.html",
 		"category":"misc",
-		"text":'2012<hr/>Tangentially class related, also OpenGL learning experience.'
+		"text":'2012-2014<hr/>Speedypups was called Go!Strich and about running ostriches for about a month. The legacy is here. Also this was Mario Maker before it was cool.'
 	},
 	{
 		"name":"Jump, Goober, Jump!!",
