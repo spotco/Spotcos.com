@@ -1,6 +1,13 @@
 <h1>Monday Night Monsters</h1>
 <p>Posted by SPOTCO on October 2015</p>
 <hr/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LU1XPr1beeY" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+Made a little SpotcosGames showcase video, very nostalgic to see all these old games again. 
+<br/>Also thank you based free copy of Final Cut Pro.
+<hr/>
+<!--
 Started a new job beginning of the summer, 
 and got <a href="http://www.gamasutra.com/view/news/249099/Gree_International_lays_off_30_of_staff.php">laid off about a month and half afterwards</a>.
 <br/>
@@ -11,7 +18,7 @@ and got <a href="http://www.gamasutra.com/view/news/249099/Gree_International_la
 Definitely was not expecting it (was hoping to coast by for a few more months at least...), but got a pretty hefty severance
 and was able to travel for a few weeks. Currently got a job at <a href="http://www.evertoon.com/">a startup</a> and enjoying it.
 <br/>
-<hr/>
+<hr/>-->
 The weekend before starting work, made <a href="http://spotco.itch.io/monday-night-monsters">Monday Night Monsters</a> for Ludum Dare 33 with <a href="http://shy.am/">Shyam</a> (a friend from GREE)
 and <a href="http://joshwongart.com/">Josh</a> (my old partner from previous gamejam stuff). I still like doing these since I feel they 
 really force you to "hone" your game design and project management skills. Did something a lot more ambitious (and polished) than previous jams, and I think 
