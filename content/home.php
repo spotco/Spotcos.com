@@ -36,6 +36,7 @@
     <div class="span4" style="width:40%; margin-left:0;" id="older">
         Play Some Games!
         <ul>
+            <li><a href="http://spotco.itch.io/my-best-magical-friend">My Best (Magical) Friend</a></li>
             <li><a href="http://spotco.itch.io/monday-night-monsters">Monday Night Monsters</a></li>
             <li><a href="http://www.spotcos.com/ricochet_hero">Ricochet Heroes</a></li>
             <li><a href="http://www.spotcos.com/littlehero">Dreaming Knight: The Little Hero</a></li>

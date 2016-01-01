@@ -26,6 +26,14 @@
 <script>
 var projs = [
 	{
+		"name":"My Best (Magical) Friend",
+		"button":"mybestmagicalfriend_button.png",
+		"banner":"mybestmagicalfriend_banner.png",
+		"link":"http://spotco.itch.io/my-best-magical-friend",
+		"category":"games",
+		"text":'2015<hr/>Ludum Dare 34 visual novel about friendship and cool magical powers. With @hinerz and @kcanaga.'
+	},
+	{
 		"name":"Empires and Allies",
 		"button":"empires_and_allies_button.png",
 		"banner":"empires_and_allies_banner.png",
@@ -162,7 +170,7 @@ var projs = [
 		"button":"jgj_button.png",
 		"banner":"jgj_banner.png",
 		"link":"http://spotco.itch.io/jump-goober-jump",
-		"category":"games",
+		"category":"other_games",
 		"text":'2012<hr/>Platformer made in flash, ~30 levels, multiple bosses and online level editor. '+
 				'My first game that other people actually played. It got sponsored, so I actually made some money off it! '+
 				'I did all the art too. That won\'t be happening again.<br/><br/>'+
@@ -236,7 +244,7 @@ $(function(){
 <hr />
 <div class="row" style="width:1000px">
 	<div class="span12" id="major_games">
-		<h3>Major Games</h3>
+		<h3>Games</h3>
 	</div>
 	<!--
 	<div class="span6" id="hackathon" style="margin-left:30px;">
@@ -247,7 +255,7 @@ $(function(){
 <br/>
 <div class="row" style="width:1000px">
 	<div class="span12" id="games">
-		<h3>Short Games</h3>
+		<h3>Jam Games</h3>
 	</div>
 	<!--
 	<div class="span6" id="hackathon" style="margin-left:30px;">

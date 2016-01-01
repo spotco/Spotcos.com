@@ -25,18 +25,15 @@
 		<hr />
 		<p>
 			<a href="http://twitter.com/spotco">@spotco</a><br/>
-			(Indie?) game dev. I make program. <br/><br/>
-			Previously worked at <a href="http://zynga.com/">Zynga</a></li> and <a href="http://apple.com">Apple</a>, and very briefly <a href="http://gree-corp.com/">Gree</a></li>.<br/>
-			Currently at <a href="http://evertoon.com">Evertoon</a>.
+			(Indie?) game dev. <br/><br/>
+			Previously worked at <a href="http://zynga.com/">Zynga</a></li> and <a href="http://apple.com">Apple</a>, and briefly <a href="http://gree-corp.com/">Gree</a></li> and <a href="http://evertoon.com">Evertoon</a>.
 		</p>
 	</div>
 
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Splatoon</dd>
-			<dt>Currently listening to:</dt>
-			<dd>Littlewitch Canto</dd>
+			<dd>Xenoblade Chronicles X</dd>
 		</dl>
 	</div>
 </div>
