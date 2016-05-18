@@ -25,7 +25,7 @@
 		<hr />
 		<p>
 			<a href="http://twitter.com/spotco">@spotco</a><br/>
-			(Indie?) game dev. <br/><br/>
+			(Indie?) game dev. <br/>Currently working as a client engineer at <a href="http://www.roblox.com">Roblox</a>.<br/>
 			Previously worked at <a href="http://zynga.com/">Zynga</a></li> and <a href="http://apple.com">Apple</a>, and briefly <a href="http://gree-corp.com/">Gree</a></li> and <a href="http://evertoon.com">Evertoon</a>.
 		</p>
 	</div>
@@ -33,7 +33,7 @@
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Xenoblade Chronicles X</dd>
+			<dd>Shin Megami Tensei: Strange Journey</dd>
 		</dl>
 	</div>
 </div>
