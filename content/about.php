@@ -33,7 +33,7 @@
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Shin Megami Tensei: Strange Journey</dd>
+			<dd>Fire Emblem Fates</dd>
 		</dl>
 	</div>
 </div>

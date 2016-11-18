@@ -86,11 +86,11 @@ hr {
                         "home" => "blog",
                         "projects" => "games",
                         "art" => "art",
-                        "about" => "about",
-                        "chat" => "leave a message"
+                        "about" => "about"
+                        #"chat" => "leave a message"
                     );
 
-                    foreach (array("home","projects","art","about","chat") as $key => $value) {
+                    foreach (array("home","projects","art","about") as $key => $value) {
                         ?><li class="navbar_icon <?= $value == $page ? "current":"" ?>"><a href="?page=<?=$value?>"><?=$names[$value]?></a></li><?php
                     }
                 ?>
@@ -105,10 +105,10 @@ hr {
                 </a>
                 <a href="http://github.com/spotco">
                     <img src="assets/github.png" style="height:40px;width:40px;" />
-                </a><!--
+                </a>
                 <a href="http://steamcommunity.com/profiles/76561197995620376">
                     <img src="assets/steam.png" style="height:40px;width:40px;" />
-                </a>-->
+                </a>
             </div>
         </div>
 

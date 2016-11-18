@@ -282,3 +282,84 @@
 (05-02 2:53)|?|pretty amusing to watch NOT GONNA LIE
 (05-02 12:13)000|?|thanks jake!
 (05-15 10:02)|?|LOL u guys 
+(05-26 5:32)|?|pornhub.com
+(06-04 11:04)hi|?|hi
+(08-20 12:39)|?|https://play.google.com/apps/testing/com.spotcos.SpeedyPups_CCV2
+(08-20 1:44)|?|https://play.google.com/store/apps/details?id=com.cakecodes.boba
+(09-13 8:46)|?|what happened to the physics solutions
+(09-14 4:49)|?|whats the new url?
+(09-14 7:37)|?|What is the new url for the physics solutions?
+(09-14 9:05)|?|does anyone know what happened to chapters 22-R?
+(09-15 2:04)|?|anyone know the new link?
+(09-15 5:29)|?|new physics link? and why does it keep changing??
+(09-15 5:40)|?|physics please
+(09-15 8:39)|?|New url for physics please? 
+(09-15 8:46)Nick|?|Last semester somebody emailed the owner of the website when the answers went down 
+(09-16 4:10)|?|search spotcos.com(slash)__misc
+(09-16 4:11)|?|jk spotcos(dot)com(slash)___misc
+(10-23 7:15)pkjzenq|?|pkjzenq
+(11-17 3:26)|?|This is like the wall of a bathroom stall, except instead of all of us shitting we are instead united in our loathing of physics
+(11-17 11:09)|?|its a game they play, its up at the beginning of the semester and they take it down towards the end.
+(11-21 3:59)|?|ayy lmao
+(02-08 3:33)|?|Down again -_-
+(02-08 8:23)zack|?|yep its down and im kinda upset that it is
+(02-08 8:23)zack|?|
+(10-20 3:01)|?|keks
+(06-23 7:47)|?|roblox-player:1+launchmode:play+gameinfo:B6BBCEE5887902E78BB2B7E2B7AC392FD65C3A33FA39E44873DA126C989F40DD775A22FC60C7C9AE7E9B4E…equest%3DRequestGame%26browserTrackerId%3D4517925461%26placeId%3D359173292%26isPartyLeader%3Dfalse+browsertrackerid:4517925461
+(08-19 2:41)|?| RobloxPlayerBetaRaw.exe --play -a &quot;&quot; -t &quot;&quot; -j &quot;http://www.gametest3.robloxlabs.com/game/join.ashx?userID=0&amp;serverPort=53640&amp;placeid=1818&quot;  C:\Users\syang\Perforce\syang_SM-SYANG4_2214\Branches\SyangDev\Client\RCCService\Win32\NoOpt&gt;  rccservice.exe /console /content:..\\..\\..\\content\\ /placeid:1818
+(08-19 2:43)|?|RCCServiceWxpyx9azRN5o6166hXKCSg.json
+(08-24 3:16)|?|asdalskjjasldjsasajdljadkjwaojdwaoaiwdijowa
+(08-31 11:20)ee|?|ee
+(08-31 11:21)fuck|?|nigger
+(08-31 11:21)nigger|?|fuck u
+(08-31 11:21)nigger|?|
+(08-31 11:21)nigger|?|
+(08-31 11:21)nigger|?|
+(08-31 11:21)nigger|?|
+(08-31 11:21)nigger|?|
+(08-31 11:21)nigger|?|
+(08-31 11:21)nigger|?|
+(08-31 11:21)nigger|?|
+(08-31 11:21)nigger|?|
+(09-01 5:31)|?|look into new chat metrics  performance tools 	mobile profiler webserver 	lua profiler annotation  ===RECENT TODO: --client call server script, GameConfigurer.cpp // this will be called in case of old play solo if (ScriptContext* scriptContext = dataModel-&gt;create&lt;ScriptContext&gt;()) { 	if (Network::Players::backendProcessing(dataModel))  	{ 		starterScript = &quot;ServerStarterScript&quot;; 		scriptContext-&gt;addCoreScriptLocal(starterScript, shared_ptr&lt;Instance&gt;()); 	}   	if (Network::Players::frontendProcessing(dataModel))  	{ 		starterScript = &quot;StarterScript&quot;; 		scriptContext-&gt;addCoreScriptLocal(starterScript, shared_ptr&lt;Instance&gt;()); 	} } ===  MORE fonts  clash of clans clone  audio upload server flags when its on prod  FASTFLAGVARIABLE(LoadCharacterSoundFromCorescriptsRepo, false) DFFlagSoundV2LoadUseParamContext DFFlagSoundV2LoadedRunCallbacks sound renames: Pitch and MinDistance, MaxDistance    FFlagSoundUseCorrectDoppler FFlagSoundIgnoreReplicatorJoinDataItemCache SoundEffects mobile test and performance    ===Sound FLAGS=== SFFlagSoundChannelUseV2Implementation (SoundChannel.cpp) SFFlagUseNewSetFMOD3D (Sound.cpp)  DFFlagDoUpdateStepDetachedChannels (SoundService.cpp) FFlagSoundChannelMaxDistanceStopFMODChannel (SoundChannel.cpp) FFlagRCCLoadFMOD (SoundService.cpp) FFlagSoundServiceGameConfigurerConfigureRunServiceRun (GameConfigurer.cpp)  DFFlagClickDetectorReplicate FFlagTeleportDetailedInfluxHttpStatusError DFFlagHttpStatusCodeErrorIncludeBody  DFFlagFMODSetAccurateTime  ===
+(11-13 5:42)a|?|apple
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:53)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|
+(11-14 9:54)|?|

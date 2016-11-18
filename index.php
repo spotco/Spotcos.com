@@ -11,7 +11,7 @@ function imglink($src, $style="") {
         $_GET["page"] = "home";
     }
 
-    $valid_pages = array("home","projects","art","about","chat","reviews");
+    $valid_pages = array("home","projects","art","about");
     if (!in_array($_GET["page"],$valid_pages)) {
         $_GET["page"] = "404";
     }
