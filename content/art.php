@@ -27,6 +27,12 @@ cons.create("pengmaku_top.png","pengmaku_top.dzi")
 **/
 var PICS = [
 	{
+		"deepzoomxml":"22.xml",
+		"url":"robeats1year.jpg",
+		"title":"Robeats 1 Year",
+		"text":"robeats 1 year anniversary"
+	},
+	{
 		"deepzoomxml":"robin.xml",
 		"url":"robin.jpg",
 		"title":"Fire Emblem Awakening Fanart",
@@ -234,6 +240,3 @@ Seadragon.Utils.addEvent(window, "load", init);
 </div>
 
 <br />
-<br />
-<br />
-<p style="text-align:center; font-size:10px;">Art gallery powered by Seadragon Ajax. Special thanks to <a href="http://www.gasi.ch/">dgasienica</a></p>

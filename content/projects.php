@@ -34,14 +34,6 @@ var projs = [
 		"text":'2015<hr/>Ludum Dare 34 visual novel about friendship and cool magical powers. With @hinerz and @kcanaga.'
 	},
 	{
-		"name":"Empires and Allies",
-		"button":"empires_and_allies_button.png",
-		"banner":"empires_and_allies_banner.png",
-		"link":"https://zynga.com/games/empires-and-allies",
-		"category":"major_games",
-		"text":'2013, 2014<hr/> What I worked on at Zynga.<br/>Did prototyping, then some networking, UI and social features.'
-	},
-	{
 		"name":"MoeMoeRush 2",
 		"button":"moemoerush2_button.png",
 		"banner":"moemoerush2_banner.png",

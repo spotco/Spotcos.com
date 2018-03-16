@@ -21,19 +21,18 @@
 <div class="row">
 	<div class="span9">
 		<h1>About</h1>
-		<p class="subheader"><a href="http://spotcos.com/resume.pdf">Resume</a></p>
 		<hr />
 		<p>
 			<a href="http://twitter.com/spotco">@spotco</a><br/>
-			(Indie?) game dev. <br/>Currently working as a client engineer at <a href="http://www.roblox.com">Roblox</a>.<br/>
-			Previously worked at <a href="http://zynga.com/">Zynga</a></li> and <a href="http://apple.com">Apple</a>, and briefly <a href="http://gree-corp.com/">Gree</a></li> and <a href="http://evertoon.com">Evertoon</a>.
+			Game dev. <br/>Currently working at Bethesda Game Studios.<br/>
+			Previously worked at <a href="http://www.roblox.com">Roblox</a>, <a href="http://zynga.com/">Zynga</a></li> and <a href="http://apple.com">Apple</a>.
 		</p>
 	</div>
 
 	<div class="span3">
 		<dl id="currently">
 			<dt>Currently playing:</dt>
-			<dd>Fire Emblem Fates</dd>
+			<dd>Fallout 4/Nier Automata</dd>
 		</dl>
 	</div>
 </div>
