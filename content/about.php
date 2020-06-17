@@ -24,7 +24,7 @@
 		<hr />
 		<p>
 			<a href="http://twitter.com/spotco">@spotco</a><br/>
-			Game dev. <br/>Currently working at Bethesda Game Studios.<br/>
+			Game dev. <br/>
 			Previously worked at <a href="http://www.roblox.com">Roblox</a>, <a href="http://zynga.com/">Zynga</a></li> and <a href="http://apple.com">Apple</a>.
 		</p>
 	</div>

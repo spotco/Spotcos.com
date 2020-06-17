@@ -100,14 +100,8 @@ hr {
                 <a href="http://twitter.com/spotco">
                     <img src="assets/twitter.png" style="height:40px;width:40px;" />
                 </a>
-                <a href="mailto:mootothemax@gmail.com">
-                    <img src="assets/gmail.png" style="height:40px;width:40px;" />
-                </a>
                 <a href="http://github.com/spotco">
                     <img src="assets/github.png" style="height:40px;width:40px;" />
-                </a>
-                <a href="http://steamcommunity.com/profiles/76561197995620376">
-                    <img src="assets/steam.png" style="height:40px;width:40px;" />
                 </a>
             </div>
         </div>
