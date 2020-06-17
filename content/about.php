@@ -31,8 +31,13 @@
 
 	<div class="span3">
 		<dl id="currently">
-			<dt>Currently playing:</dt>
-			<dd>Fallout 4/Nier Automata</dd>
+			<dt>Last Played Games:</dt>
+			<dd>Final Fantasy 13</dd>
+			<dd>Final Fantasy 7 Remake</dd>
+			<dd>Fire Emblem Three Houses</dd>
+			<dd>Black Desert Mobile</dd>
+			<dd>Death Stranding</dd>
+			<dd>Doom 2016</dd>
 		</dl>
 	</div>
 </div>
