@@ -36,11 +36,13 @@
     <div class="span4" style="width:40%; margin-left:0;" id="older">
         Play Some Games!
         <ul>
+						<li><a href="http://robeats.net">Robeats</a></li>
+						<li><a href="https://spotco.itch.io/speedypups">SpeedyPups</a></li>
             <li><a href="http://spotco.itch.io/my-best-magical-friend">My Best (Magical) Friend</a></li>
             <li><a href="http://spotco.itch.io/monday-night-monsters">Monday Night Monsters</a></li>
-            <li><a href="http://www.spotcos.com/ricochet_hero">Ricochet Heroes</a></li>
-            <li><a href="http://www.spotcos.com/littlehero">Dreaming Knight: The Little Hero</a></li>
-            <li><a href="http://www.spotcos.com/penguin">Maniac Pengmaku!</a></li>
+            <li><a href="https://spotco.itch.io/ricochet-heroes">Ricochet Heroes</a></li>
+            <li><a href="https://spotco.itch.io/dream-knights-the-little-hero">Dreaming Knight: The Little Hero</a></li>
+            <li><a href="https://spotco.itch.io/maniac-pengmaku">Maniac Pengmaku!</a></li>
             <li><a href="http://spotco.itch.io/window-cleaner">Window Cleaner - A Tale of Two Gangs</a></li>
             <li><a href="http://spotco.itch.io/moemoerush">MoeMoeRush!!</a></li>
            <li> <a href="http://spotco.itch.io/jump-goober-jump">Jump, Goober, Jump!</a></li>
