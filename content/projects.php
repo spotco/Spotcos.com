@@ -54,7 +54,7 @@ var projs = [
 		"name":"Ricochet Heroes",
 		"button":"ricochethero_button.png",
 		"banner":"ricochethero_banner.png",
-		"link":"http://spotcos.com/ricochet_hero",
+		"link":"https://spotco.itch.io/ricochet-heroes",
 		"category":"games",
 		"text":"December 2014<hr/>Pinball RPG made for LD31 with Josh, special thanks to Josi and Charles."
 
@@ -72,7 +72,7 @@ var projs = [
 		"name":"Dreaming Knight: Little Hero",
 		"button":"littlehero_button.png",
 		"banner":"littlehero_banner.png",
-		"link":"http://spotcos.com/littlehero",
+		"link":"https://spotco.itch.io/dream-knights-the-little-hero",
 		"category":"games",
 		"text":"August 2014<hr/>Top-down RPG-Brawler with bullet hell elements.<br/> Made in 72 hours for <a href='http://www.ludumdare.com/compo/ludum-dare-30/'>Ludum Dare 30 Jam</a><br/>(Theme: Connected Worlds). <br/><br/>Thanks to Josh and Josephine."
 
@@ -81,7 +81,7 @@ var projs = [
 		"name":"UW GameDev Club",
 		"button":"gamedev_button.png",
 		"banner":"gamedev_banner.png",
-		"link":"http://gamedev.cs.washington.edu",
+		"link":"http://uwgamedev.com/",
 		"category":"misc",
 		"text":"2014/2015<hr/>Club I started/helped run. <br/><br/><a href='/gamedev'>Random Slides</a>"
 	},
@@ -89,7 +89,7 @@ var projs = [
 		"name":"Maniac Pengmaku",
 		"button":"pengmaku_button.png",
 		"banner":"pengmaku_banner.png",
-		"link":"http://spotcos.com/penguin",
+		"link":"https://spotco.itch.io/maniac-pengmaku",
 		"category":"games",
 		"text":"April 2014<hr/>Bullet hell (Danmaku) shooter based on penguins.<br/> Made in 48 hours for <a href='http://www.ludumdare.com/compo/ludum-dare-29/'>Ludum Dare 29 Compo</a><br/>(Theme: Beneath the Surface) <br/><br/><a href='https://github.com/spotco/pingouin_shooter'>Source</a>"
 
@@ -142,10 +142,18 @@ var projs = [
 
 	},
 	{
+		"name":"Robeats",
+		"button":"robeats_button.png",
+		"banner":"robeats_banner.png",
+		"link":"http://robeats.net",
+		"category":"major_games",
+		"text":'2017<hr/>Roblox Rhythm MMO Game. 60M+ Plays.'
+	},
+	{
 		"name":"Speedy Pups",
 		"button":"runner_button.png",
 		"banner":"runner_banner.png",
-		"link":"http://speedypups.com",
+		"link":"https://spotco.itch.io/speedypups",
 		"category":"major_games",
 		"text":'2012-2014<hr/>Our first major mobile game, in development for over a year.<br/>A platformer/infinite runner inspired by retro classics like Sonic and Rayman. Multiple worlds, three bosses, fun minigames and lots of challenge!<br/><br/>Art by <a href="http://heytomchang.com/">Tom</a>.'
 	},
