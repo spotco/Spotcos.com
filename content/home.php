@@ -36,7 +36,7 @@
     <div class="span4" style="width:40%; margin-left:0;" id="older">
         Play Some Games!
         <ul>
-						<li><a href="http://robeats.net">Robeats</a></li>
+						<li><a href="http://robeats.net">RoBeats [MMO Rhythm Game]</a></li>
 						<li><a href="https://spotco.itch.io/speedypups">SpeedyPups</a></li>
             <li><a href="http://spotco.itch.io/my-best-magical-friend">My Best (Magical) Friend</a></li>
             <li><a href="http://spotco.itch.io/monday-night-monsters">Monday Night Monsters</a></li>
