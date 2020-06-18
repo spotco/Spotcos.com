@@ -56,16 +56,6 @@
             }
             ?>
         </ul>
-        <br/>
-        Links:
-        <ul>
-            <?php
-            $links = json_decode(file_get_contents("content/links.json"),true);
-            foreach ($links as $ind => $item) {
-                ?><li><a href="<?=$item["url"]?>"><?=$item["title"]?></a></li><?php
-            }
-            ?>
-        </ul>
     </div>
 
 </div>

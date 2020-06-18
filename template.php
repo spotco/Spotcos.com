@@ -100,6 +100,9 @@ hr {
                 <a href="http://twitter.com/spotco">
                     <img src="assets/twitter.png" style="height:40px;width:40px;" />
                 </a>
+                <a href="http://youtube.com/spotco">
+                    <img src="assets/youtube.png" style="height:40px;width:40px;" />
+                </a>
                 <a href="http://github.com/spotco">
                     <img src="assets/github.png" style="height:40px;width:40px;" />
                 </a>
